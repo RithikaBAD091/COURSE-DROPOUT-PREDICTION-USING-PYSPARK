@@ -1,0 +1,2001 @@
+id_student,gender,age_band,highest_education,disability,final_result
+10000,F,35-55,A-level,N,Fail
+10001,M,35-55,A-level,N,Fail
+10002,M,0-35,A-level,N,Withdrawn
+10003,M,35-55,Lower than A-level,N,Distinction
+10004,F,55<,Lower than A-level,N,Pass
+10005,F,55<,Lower than A-level,N,Withdrawn
+10006,M,35-55,HE Qualification,N,Pass
+10007,M,35-55,HE Qualification,N,Distinction
+10008,M,55<,HE Qualification,N,Withdrawn
+10009,F,0-35,HE Qualification,N,Pass
+10010,F,35-55,Lower than A-level,N,Withdrawn
+10011,M,35-55,HE Qualification,N,Pass
+10012,M,35-55,Lower than A-level,N,Pass
+10013,F,55<,HE Qualification,N,Pass
+10014,M,35-55,Lower than A-level,N,Withdrawn
+10015,F,35-55,Lower than A-level,N,Fail
+10016,M,0-35,Lower than A-level,N,Pass
+10017,F,35-55,Lower than A-level,N,Pass
+10018,M,55<,HE Qualification,N,Withdrawn
+10019,F,35-55,Lower than A-level,N,Pass
+10020,F,0-35,HE Qualification,N,Pass
+10021,F,35-55,Lower than A-level,N,Fail
+10022,F,35-55,HE Qualification,N,Fail
+10023,F,55<,Lower than A-level,N,Fail
+10024,M,55<,Lower than A-level,N,Pass
+10025,F,0-35,A-level,N,Fail
+10026,F,0-35,HE Qualification,N,Fail
+10027,M,0-35,Lower than A-level,N,Pass
+10028,M,55<,HE Qualification,N,Pass
+10029,F,35-55,HE Qualification,N,Pass
+10030,M,35-55,A-level,N,Withdrawn
+10031,F,0-35,Lower than A-level,N,Fail
+10032,M,55<,HE Qualification,N,Fail
+10033,F,35-55,A-level,N,Pass
+10034,M,55<,HE Qualification,N,Withdrawn
+10035,F,55<,A-level,N,Withdrawn
+10036,M,0-35,HE Qualification,N,Pass
+10037,M,0-35,A-level,N,Pass
+10038,M,0-35,Lower than A-level,N,Fail
+10039,F,0-35,HE Qualification,N,Pass
+10040,M,0-35,HE Qualification,N,Withdrawn
+10041,M,35-55,HE Qualification,N,Fail
+10042,M,55<,Lower than A-level,N,Pass
+10043,M,35-55,HE Qualification,N,Pass
+10044,M,55<,HE Qualification,N,Pass
+10045,F,55<,HE Qualification,N,Pass
+10046,F,55<,Lower than A-level,N,Pass
+10047,M,0-35,Lower than A-level,N,Pass
+10048,M,0-35,A-level,N,Pass
+10049,M,55<,Lower than A-level,N,Withdrawn
+10050,F,0-35,Lower than A-level,N,Withdrawn
+10051,M,35-55,Lower than A-level,N,Pass
+10052,M,0-35,Lower than A-level,N,Withdrawn
+10053,M,55<,HE Qualification,Y,Pass
+10054,M,55<,A-level,N,Pass
+10055,F,35-55,A-level,N,Pass
+10056,M,35-55,HE Qualification,N,Pass
+10057,M,0-35,Lower than A-level,N,Withdrawn
+10058,F,0-35,Lower than A-level,N,Pass
+10059,F,55<,A-level,N,Pass
+10060,F,0-35,HE Qualification,N,Fail
+10061,M,55<,Lower than A-level,N,Pass
+10062,M,35-55,HE Qualification,N,Pass
+10063,F,35-55,HE Qualification,N,Withdrawn
+10064,F,0-35,A-level,N,Pass
+10065,F,35-55,HE Qualification,N,Pass
+10066,M,0-35,A-level,N,Pass
+10067,M,35-55,A-level,N,Distinction
+10068,M,55<,HE Qualification,N,Withdrawn
+10069,M,35-55,Lower than A-level,N,Pass
+10070,F,0-35,A-level,N,Pass
+10071,M,0-35,Lower than A-level,N,Pass
+10072,F,35-55,A-level,N,Pass
+10073,M,0-35,HE Qualification,N,Pass
+10074,M,35-55,HE Qualification,N,Pass
+10075,F,35-55,A-level,N,Pass
+10076,M,35-55,HE Qualification,N,Withdrawn
+10077,M,35-55,A-level,N,Withdrawn
+10078,M,0-35,HE Qualification,N,Fail
+10079,M,0-35,A-level,N,Fail
+10080,M,0-35,HE Qualification,N,Withdrawn
+10081,F,55<,A-level,N,Pass
+10082,M,35-55,A-level,N,Withdrawn
+10083,F,0-35,HE Qualification,N,Pass
+10084,M,0-35,Lower than A-level,N,Fail
+10085,F,0-35,HE Qualification,N,Pass
+10086,M,55<,HE Qualification,N,Fail
+10087,M,0-35,A-level,N,Pass
+10088,F,0-35,HE Qualification,N,Pass
+10089,F,35-55,HE Qualification,N,Fail
+10090,F,55<,Lower than A-level,N,Withdrawn
+10091,F,0-35,Lower than A-level,N,Pass
+10092,M,0-35,HE Qualification,N,Fail
+10093,F,0-35,HE Qualification,N,Pass
+10094,F,0-35,HE Qualification,N,Pass
+10095,M,55<,A-level,N,Pass
+10096,M,0-35,A-level,N,Pass
+10097,F,35-55,Lower than A-level,N,Pass
+10098,F,55<,A-level,N,Pass
+10099,M,55<,HE Qualification,N,Pass
+10100,F,55<,A-level,N,Distinction
+10101,F,55<,HE Qualification,N,Pass
+10102,M,0-35,Lower than A-level,N,Pass
+10103,F,55<,Lower than A-level,N,Distinction
+10104,M,55<,A-level,N,Pass
+10105,M,55<,HE Qualification,N,Withdrawn
+10106,F,0-35,HE Qualification,N,Fail
+10107,F,35-55,Lower than A-level,N,Withdrawn
+10108,F,55<,A-level,N,Fail
+10109,F,35-55,Lower than A-level,N,Withdrawn
+10110,F,55<,Lower than A-level,N,Withdrawn
+10111,F,0-35,Lower than A-level,N,Distinction
+10112,M,55<,HE Qualification,N,Pass
+10113,M,55<,A-level,N,Withdrawn
+10114,M,55<,HE Qualification,N,Pass
+10115,F,55<,HE Qualification,N,Fail
+10116,F,55<,A-level,N,Pass
+10117,M,55<,HE Qualification,N,Fail
+10118,F,35-55,Lower than A-level,N,Pass
+10119,M,0-35,A-level,N,Fail
+10120,M,55<,A-level,N,Pass
+10121,M,35-55,HE Qualification,Y,Withdrawn
+10122,F,35-55,A-level,N,Pass
+10123,M,55<,Lower than A-level,N,Fail
+10124,F,55<,Lower than A-level,N,Pass
+10125,F,0-35,HE Qualification,N,Fail
+10126,F,0-35,HE Qualification,N,Withdrawn
+10127,F,35-55,Lower than A-level,N,Withdrawn
+10128,M,0-35,HE Qualification,N,Pass
+10129,M,35-55,A-level,N,Withdrawn
+10130,F,0-35,A-level,N,Fail
+10131,M,55<,Lower than A-level,N,Withdrawn
+10132,M,55<,Lower than A-level,N,Fail
+10133,F,35-55,A-level,N,Withdrawn
+10134,M,35-55,Lower than A-level,N,Fail
+10135,F,55<,A-level,N,Pass
+10136,F,35-55,Lower than A-level,N,Withdrawn
+10137,M,55<,Lower than A-level,N,Pass
+10138,F,55<,Lower than A-level,N,Withdrawn
+10139,M,35-55,A-level,N,Fail
+10140,F,55<,A-level,N,Pass
+10141,F,0-35,Lower than A-level,N,Withdrawn
+10142,F,0-35,A-level,N,Fail
+10143,M,55<,Lower than A-level,N,Withdrawn
+10144,F,35-55,Lower than A-level,N,Distinction
+10145,M,55<,A-level,N,Withdrawn
+10146,M,55<,HE Qualification,N,Withdrawn
+10147,F,55<,HE Qualification,N,Pass
+10148,F,35-55,Lower than A-level,N,Pass
+10149,F,0-35,HE Qualification,N,Pass
+10150,M,55<,HE Qualification,N,Pass
+10151,F,0-35,A-level,N,Fail
+10152,M,35-55,A-level,N,Pass
+10153,M,35-55,A-level,N,Fail
+10154,F,0-35,A-level,N,Fail
+10155,M,0-35,HE Qualification,N,Distinction
+10156,F,55<,Lower than A-level,N,Withdrawn
+10157,F,55<,HE Qualification,N,Withdrawn
+10158,F,55<,HE Qualification,N,Pass
+10159,F,0-35,A-level,N,Pass
+10160,F,55<,HE Qualification,N,Pass
+10161,F,55<,A-level,N,Fail
+10162,F,55<,HE Qualification,N,Pass
+10163,M,0-35,Lower than A-level,N,Pass
+10164,M,35-55,A-level,N,Fail
+10165,M,55<,Lower than A-level,N,Pass
+10166,F,55<,HE Qualification,N,Fail
+10167,F,55<,A-level,N,Pass
+10168,F,35-55,HE Qualification,N,Withdrawn
+10169,F,55<,HE Qualification,N,Pass
+10170,F,0-35,Lower than A-level,N,Withdrawn
+10171,M,55<,HE Qualification,N,Pass
+10172,M,35-55,HE Qualification,N,Pass
+10173,F,55<,Lower than A-level,N,Pass
+10174,M,55<,HE Qualification,N,Pass
+10175,M,35-55,A-level,Y,Pass
+10176,M,55<,A-level,N,Pass
+10177,F,55<,HE Qualification,N,Withdrawn
+10178,F,55<,Lower than A-level,N,Withdrawn
+10179,M,0-35,HE Qualification,N,Withdrawn
+10180,F,0-35,A-level,Y,Distinction
+10181,F,35-55,Lower than A-level,N,Fail
+10182,M,55<,A-level,Y,Withdrawn
+10183,M,35-55,HE Qualification,N,Withdrawn
+10184,F,55<,HE Qualification,N,Withdrawn
+10185,M,35-55,A-level,N,Withdrawn
+10186,F,35-55,Lower than A-level,N,Pass
+10187,F,55<,A-level,N,Pass
+10188,M,35-55,HE Qualification,N,Distinction
+10189,M,35-55,HE Qualification,N,Withdrawn
+10190,F,0-35,HE Qualification,N,Pass
+10191,F,35-55,Lower than A-level,N,Pass
+10192,M,35-55,Lower than A-level,N,Fail
+10193,F,0-35,Lower than A-level,N,Withdrawn
+10194,F,0-35,Lower than A-level,N,Pass
+10195,F,0-35,HE Qualification,Y,Distinction
+10196,M,55<,A-level,N,Withdrawn
+10197,M,35-55,Lower than A-level,N,Withdrawn
+10198,M,0-35,HE Qualification,N,Withdrawn
+10199,F,0-35,A-level,N,Fail
+10200,F,55<,Lower than A-level,N,Pass
+10201,M,0-35,A-level,N,Pass
+10202,F,35-55,A-level,N,Pass
+10203,F,0-35,HE Qualification,N,Pass
+10204,M,0-35,A-level,N,Pass
+10205,M,0-35,HE Qualification,N,Fail
+10206,M,0-35,HE Qualification,N,Fail
+10207,M,55<,HE Qualification,N,Fail
+10208,F,35-55,Lower than A-level,N,Fail
+10209,M,35-55,Lower than A-level,N,Pass
+10210,M,0-35,HE Qualification,Y,Pass
+10211,M,55<,Lower than A-level,N,Pass
+10212,M,0-35,HE Qualification,N,Pass
+10213,M,0-35,A-level,N,Withdrawn
+10214,M,55<,A-level,N,Pass
+10215,F,35-55,Lower than A-level,N,Distinction
+10216,F,55<,HE Qualification,N,Pass
+10217,F,55<,Lower than A-level,N,Withdrawn
+10218,F,0-35,Lower than A-level,N,Pass
+10219,F,55<,A-level,N,Withdrawn
+10220,M,55<,Lower than A-level,N,Pass
+10221,M,55<,Lower than A-level,N,Withdrawn
+10222,M,0-35,Lower than A-level,N,Pass
+10223,M,0-35,Lower than A-level,N,Withdrawn
+10224,F,55<,Lower than A-level,N,Pass
+10225,M,0-35,A-level,N,Pass
+10226,F,0-35,A-level,N,Fail
+10227,F,0-35,Lower than A-level,N,Withdrawn
+10228,M,55<,A-level,N,Pass
+10229,F,35-55,Lower than A-level,N,Fail
+10230,F,0-35,Lower than A-level,N,Pass
+10231,F,55<,HE Qualification,Y,Withdrawn
+10232,F,35-55,HE Qualification,N,Pass
+10233,M,55<,Lower than A-level,N,Distinction
+10234,F,35-55,A-level,N,Pass
+10235,F,35-55,Lower than A-level,N,Distinction
+10236,F,0-35,Lower than A-level,N,Pass
+10237,F,35-55,A-level,N,Withdrawn
+10238,M,55<,A-level,N,Withdrawn
+10239,M,0-35,Lower than A-level,N,Pass
+10240,M,0-35,Lower than A-level,N,Pass
+10241,F,0-35,HE Qualification,N,Pass
+10242,M,35-55,A-level,Y,Pass
+10243,F,35-55,HE Qualification,N,Fail
+10244,F,0-35,A-level,N,Fail
+10245,M,55<,Lower than A-level,N,Pass
+10246,F,0-35,HE Qualification,N,Pass
+10247,F,0-35,HE Qualification,N,Fail
+10248,F,35-55,Lower than A-level,N,Pass
+10249,M,35-55,A-level,N,Distinction
+10250,F,55<,Lower than A-level,N,Fail
+10251,F,55<,HE Qualification,N,Pass
+10252,F,0-35,HE Qualification,N,Pass
+10253,F,0-35,HE Qualification,N,Withdrawn
+10254,M,55<,A-level,N,Withdrawn
+10255,F,55<,Lower than A-level,N,Pass
+10256,F,35-55,HE Qualification,N,Pass
+10257,F,35-55,Lower than A-level,N,Pass
+10258,M,35-55,A-level,N,Pass
+10259,F,0-35,A-level,N,Pass
+10260,M,35-55,Lower than A-level,N,Pass
+10261,F,0-35,HE Qualification,N,Withdrawn
+10262,F,35-55,Lower than A-level,N,Withdrawn
+10263,M,55<,Lower than A-level,N,Pass
+10264,F,55<,A-level,N,Distinction
+10265,F,0-35,Lower than A-level,N,Distinction
+10266,F,0-35,A-level,N,Pass
+10267,M,0-35,Lower than A-level,N,Pass
+10268,F,0-35,A-level,N,Withdrawn
+10269,M,0-35,A-level,N,Withdrawn
+10270,M,55<,Lower than A-level,N,Withdrawn
+10271,M,55<,A-level,N,Pass
+10272,F,35-55,Lower than A-level,N,Fail
+10273,M,35-55,HE Qualification,N,Pass
+10274,M,35-55,HE Qualification,N,Fail
+10275,F,55<,Lower than A-level,N,Pass
+10276,M,55<,A-level,N,Pass
+10277,M,55<,HE Qualification,N,Withdrawn
+10278,F,0-35,HE Qualification,N,Pass
+10279,M,35-55,HE Qualification,N,Pass
+10280,F,35-55,A-level,N,Fail
+10281,M,0-35,HE Qualification,N,Fail
+10282,M,0-35,A-level,N,Withdrawn
+10283,M,0-35,Lower than A-level,N,Fail
+10284,F,35-55,HE Qualification,N,Withdrawn
+10285,F,0-35,Lower than A-level,N,Withdrawn
+10286,M,55<,A-level,N,Pass
+10287,M,0-35,A-level,N,Pass
+10288,M,55<,HE Qualification,N,Withdrawn
+10289,F,35-55,A-level,N,Pass
+10290,F,35-55,Lower than A-level,N,Pass
+10291,M,35-55,Lower than A-level,N,Fail
+10292,M,35-55,A-level,N,Fail
+10293,M,35-55,Lower than A-level,N,Fail
+10294,F,35-55,A-level,N,Fail
+10295,M,35-55,A-level,N,Fail
+10296,M,35-55,HE Qualification,N,Withdrawn
+10297,M,0-35,A-level,N,Pass
+10298,F,35-55,A-level,N,Distinction
+10299,F,35-55,Lower than A-level,N,Withdrawn
+10300,F,55<,HE Qualification,N,Fail
+10301,F,0-35,HE Qualification,N,Pass
+10302,F,0-35,A-level,N,Fail
+10303,M,35-55,A-level,N,Pass
+10304,F,35-55,HE Qualification,N,Fail
+10305,M,0-35,Lower than A-level,N,Pass
+10306,F,55<,Lower than A-level,N,Withdrawn
+10307,F,55<,HE Qualification,N,Fail
+10308,M,35-55,A-level,N,Pass
+10309,M,0-35,HE Qualification,N,Pass
+10310,M,35-55,HE Qualification,N,Withdrawn
+10311,M,35-55,HE Qualification,N,Distinction
+10312,F,0-35,A-level,N,Fail
+10313,M,55<,HE Qualification,N,Pass
+10314,F,35-55,Lower than A-level,N,Withdrawn
+10315,F,0-35,HE Qualification,N,Pass
+10316,M,55<,Lower than A-level,N,Pass
+10317,F,35-55,A-level,N,Pass
+10318,F,55<,A-level,N,Pass
+10319,F,55<,A-level,N,Withdrawn
+10320,M,55<,HE Qualification,N,Pass
+10321,M,55<,HE Qualification,N,Pass
+10322,F,55<,Lower than A-level,N,Withdrawn
+10323,F,35-55,HE Qualification,N,Withdrawn
+10324,F,0-35,HE Qualification,N,Withdrawn
+10325,F,35-55,Lower than A-level,N,Withdrawn
+10326,M,55<,Lower than A-level,N,Withdrawn
+10327,F,35-55,Lower than A-level,N,Pass
+10328,M,0-35,HE Qualification,N,Withdrawn
+10329,M,55<,Lower than A-level,N,Pass
+10330,F,35-55,Lower than A-level,N,Pass
+10331,M,55<,Lower than A-level,N,Pass
+10332,F,35-55,Lower than A-level,N,Fail
+10333,F,55<,Lower than A-level,N,Pass
+10334,M,35-55,A-level,N,Pass
+10335,F,0-35,A-level,N,Pass
+10336,F,0-35,Lower than A-level,N,Pass
+10337,F,35-55,HE Qualification,N,Withdrawn
+10338,M,0-35,A-level,N,Pass
+10339,M,55<,HE Qualification,N,Fail
+10340,F,55<,Lower than A-level,N,Withdrawn
+10341,F,0-35,Lower than A-level,N,Pass
+10342,F,0-35,Lower than A-level,N,Fail
+10343,F,0-35,HE Qualification,N,Pass
+10344,M,0-35,Lower than A-level,N,Withdrawn
+10345,F,55<,HE Qualification,N,Pass
+10346,F,55<,Lower than A-level,N,Pass
+10347,F,0-35,Lower than A-level,N,Withdrawn
+10348,F,55<,Lower than A-level,N,Withdrawn
+10349,F,35-55,A-level,Y,Fail
+10350,M,35-55,Lower than A-level,N,Pass
+10351,M,35-55,A-level,N,Pass
+10352,M,55<,A-level,N,Withdrawn
+10353,M,35-55,HE Qualification,N,Pass
+10354,M,35-55,A-level,N,Withdrawn
+10355,F,55<,Lower than A-level,N,Pass
+10356,M,35-55,A-level,N,Withdrawn
+10357,M,35-55,A-level,N,Fail
+10358,M,0-35,A-level,N,Pass
+10359,M,0-35,A-level,N,Pass
+10360,F,55<,A-level,N,Withdrawn
+10361,M,55<,A-level,N,Withdrawn
+10362,F,0-35,HE Qualification,N,Distinction
+10363,M,35-55,HE Qualification,N,Withdrawn
+10364,M,35-55,HE Qualification,N,Withdrawn
+10365,F,55<,A-level,N,Pass
+10366,M,55<,A-level,N,Pass
+10367,F,35-55,HE Qualification,N,Withdrawn
+10368,M,35-55,HE Qualification,N,Fail
+10369,M,35-55,A-level,N,Withdrawn
+10370,M,0-35,Lower than A-level,N,Withdrawn
+10371,M,35-55,HE Qualification,N,Fail
+10372,M,0-35,HE Qualification,N,Pass
+10373,F,35-55,HE Qualification,N,Fail
+10374,F,35-55,Lower than A-level,N,Pass
+10375,M,0-35,A-level,N,Withdrawn
+10376,F,55<,HE Qualification,N,Withdrawn
+10377,F,55<,Lower than A-level,N,Fail
+10378,F,55<,Lower than A-level,N,Withdrawn
+10379,M,55<,A-level,N,Fail
+10380,F,35-55,A-level,N,Fail
+10381,F,0-35,HE Qualification,N,Withdrawn
+10382,F,35-55,Lower than A-level,N,Withdrawn
+10383,F,55<,A-level,N,Pass
+10384,F,0-35,HE Qualification,N,Pass
+10385,F,0-35,Lower than A-level,N,Fail
+10386,M,0-35,Lower than A-level,N,Pass
+10387,F,55<,HE Qualification,N,Withdrawn
+10388,F,55<,A-level,N,Pass
+10389,M,0-35,A-level,N,Fail
+10390,F,55<,HE Qualification,N,Pass
+10391,F,35-55,A-level,N,Pass
+10392,M,35-55,Lower than A-level,N,Pass
+10393,M,0-35,A-level,N,Fail
+10394,M,55<,HE Qualification,N,Withdrawn
+10395,F,55<,HE Qualification,N,Distinction
+10396,M,55<,Lower than A-level,N,Pass
+10397,M,55<,HE Qualification,N,Pass
+10398,M,55<,HE Qualification,N,Pass
+10399,F,35-55,Lower than A-level,N,Pass
+10400,F,55<,HE Qualification,N,Pass
+10401,F,35-55,HE Qualification,N,Withdrawn
+10402,M,35-55,A-level,N,Withdrawn
+10403,M,55<,HE Qualification,N,Fail
+10404,M,0-35,A-level,N,Pass
+10405,F,35-55,HE Qualification,N,Fail
+10406,M,0-35,HE Qualification,N,Pass
+10407,M,0-35,Lower than A-level,N,Withdrawn
+10408,F,35-55,HE Qualification,N,Pass
+10409,F,55<,A-level,Y,Withdrawn
+10410,F,35-55,A-level,N,Withdrawn
+10411,M,55<,HE Qualification,N,Pass
+10412,M,35-55,Lower than A-level,N,Pass
+10413,M,55<,HE Qualification,N,Pass
+10414,F,0-35,HE Qualification,Y,Pass
+10415,F,0-35,Lower than A-level,N,Pass
+10416,M,55<,A-level,N,Fail
+10417,M,0-35,A-level,N,Pass
+10418,M,35-55,A-level,N,Withdrawn
+10419,F,55<,Lower than A-level,Y,Fail
+10420,F,35-55,HE Qualification,N,Fail
+10421,F,0-35,HE Qualification,N,Withdrawn
+10422,M,35-55,A-level,N,Pass
+10423,F,0-35,Lower than A-level,N,Pass
+10424,M,0-35,A-level,N,Pass
+10425,F,35-55,Lower than A-level,N,Fail
+10426,M,55<,A-level,N,Pass
+10427,F,55<,A-level,N,Pass
+10428,F,0-35,Lower than A-level,N,Withdrawn
+10429,F,55<,HE Qualification,N,Fail
+10430,F,35-55,Lower than A-level,N,Pass
+10431,M,35-55,HE Qualification,Y,Pass
+10432,M,35-55,A-level,N,Withdrawn
+10433,F,35-55,A-level,N,Fail
+10434,F,55<,HE Qualification,N,Distinction
+10435,M,0-35,A-level,N,Distinction
+10436,F,0-35,A-level,N,Withdrawn
+10437,F,0-35,HE Qualification,N,Pass
+10438,M,35-55,HE Qualification,N,Withdrawn
+10439,M,55<,HE Qualification,N,Withdrawn
+10440,F,35-55,HE Qualification,N,Pass
+10441,F,0-35,HE Qualification,N,Pass
+10442,M,35-55,A-level,N,Fail
+10443,F,55<,A-level,N,Pass
+10444,M,55<,A-level,N,Fail
+10445,F,35-55,A-level,N,Pass
+10446,M,0-35,HE Qualification,N,Withdrawn
+10447,M,35-55,Lower than A-level,N,Pass
+10448,M,0-35,A-level,N,Withdrawn
+10449,F,0-35,Lower than A-level,N,Pass
+10450,F,0-35,Lower than A-level,N,Pass
+10451,F,35-55,A-level,N,Pass
+10452,M,35-55,A-level,N,Fail
+10453,F,55<,HE Qualification,N,Fail
+10454,F,35-55,Lower than A-level,Y,Withdrawn
+10455,F,55<,Lower than A-level,N,Pass
+10456,F,0-35,HE Qualification,N,Pass
+10457,F,55<,A-level,N,Fail
+10458,M,0-35,HE Qualification,Y,Pass
+10459,M,55<,A-level,N,Pass
+10460,M,55<,A-level,N,Pass
+10461,M,35-55,A-level,N,Pass
+10462,F,55<,HE Qualification,N,Pass
+10463,M,35-55,A-level,N,Pass
+10464,F,0-35,HE Qualification,N,Withdrawn
+10465,M,55<,Lower than A-level,N,Pass
+10466,F,0-35,Lower than A-level,N,Pass
+10467,M,35-55,Lower than A-level,N,Pass
+10468,M,0-35,Lower than A-level,Y,Pass
+10469,M,35-55,A-level,N,Pass
+10470,M,55<,A-level,N,Pass
+10471,F,35-55,A-level,N,Pass
+10472,M,35-55,A-level,N,Pass
+10473,F,0-35,HE Qualification,N,Withdrawn
+10474,F,35-55,Lower than A-level,N,Pass
+10475,M,0-35,Lower than A-level,N,Fail
+10476,M,55<,A-level,N,Fail
+10477,F,0-35,Lower than A-level,N,Distinction
+10478,M,55<,Lower than A-level,N,Pass
+10479,M,35-55,HE Qualification,N,Pass
+10480,M,55<,Lower than A-level,N,Pass
+10481,M,0-35,A-level,N,Withdrawn
+10482,F,0-35,Lower than A-level,N,Withdrawn
+10483,F,0-35,A-level,N,Pass
+10484,F,55<,Lower than A-level,N,Pass
+10485,M,35-55,HE Qualification,N,Withdrawn
+10486,M,35-55,Lower than A-level,N,Fail
+10487,M,35-55,HE Qualification,Y,Withdrawn
+10488,F,55<,A-level,N,Fail
+10489,M,0-35,HE Qualification,N,Pass
+10490,F,0-35,Lower than A-level,N,Pass
+10491,M,35-55,A-level,N,Withdrawn
+10492,M,55<,Lower than A-level,N,Withdrawn
+10493,M,35-55,A-level,Y,Withdrawn
+10494,F,55<,Lower than A-level,N,Fail
+10495,F,35-55,Lower than A-level,N,Withdrawn
+10496,M,35-55,HE Qualification,N,Fail
+10497,F,35-55,Lower than A-level,N,Pass
+10498,M,35-55,HE Qualification,N,Withdrawn
+10499,F,35-55,HE Qualification,N,Withdrawn
+10500,F,0-35,Lower than A-level,N,Withdrawn
+10501,F,0-35,A-level,N,Pass
+10502,F,55<,HE Qualification,N,Distinction
+10503,M,55<,A-level,N,Withdrawn
+10504,M,55<,Lower than A-level,N,Withdrawn
+10505,F,0-35,A-level,N,Fail
+10506,F,55<,A-level,N,Pass
+10507,F,0-35,Lower than A-level,N,Withdrawn
+10508,M,35-55,HE Qualification,N,Distinction
+10509,M,55<,A-level,N,Pass
+10510,F,55<,HE Qualification,N,Fail
+10511,M,0-35,HE Qualification,N,Withdrawn
+10512,M,55<,Lower than A-level,N,Pass
+10513,M,35-55,Lower than A-level,N,Pass
+10514,F,35-55,Lower than A-level,N,Pass
+10515,M,35-55,Lower than A-level,N,Pass
+10516,M,35-55,A-level,N,Fail
+10517,F,55<,Lower than A-level,N,Pass
+10518,M,55<,A-level,N,Pass
+10519,F,0-35,A-level,N,Withdrawn
+10520,F,35-55,HE Qualification,N,Pass
+10521,M,35-55,HE Qualification,N,Pass
+10522,M,35-55,HE Qualification,N,Withdrawn
+10523,M,55<,HE Qualification,N,Pass
+10524,F,0-35,Lower than A-level,N,Pass
+10525,M,55<,HE Qualification,N,Pass
+10526,M,55<,HE Qualification,N,Withdrawn
+10527,M,35-55,HE Qualification,N,Withdrawn
+10528,F,55<,Lower than A-level,N,Pass
+10529,M,55<,HE Qualification,N,Pass
+10530,F,35-55,A-level,N,Fail
+10531,F,0-35,HE Qualification,N,Pass
+10532,M,35-55,HE Qualification,N,Withdrawn
+10533,F,35-55,A-level,N,Fail
+10534,M,55<,A-level,N,Withdrawn
+10535,M,35-55,A-level,N,Pass
+10536,F,0-35,Lower than A-level,N,Withdrawn
+10537,F,0-35,Lower than A-level,N,Withdrawn
+10538,M,55<,HE Qualification,N,Pass
+10539,F,35-55,A-level,N,Fail
+10540,M,35-55,A-level,N,Pass
+10541,F,35-55,HE Qualification,N,Withdrawn
+10542,F,55<,Lower than A-level,Y,Pass
+10543,F,55<,A-level,N,Distinction
+10544,F,0-35,HE Qualification,N,Pass
+10545,F,35-55,A-level,N,Withdrawn
+10546,F,55<,A-level,N,Withdrawn
+10547,M,0-35,HE Qualification,N,Pass
+10548,M,0-35,Lower than A-level,N,Withdrawn
+10549,F,35-55,HE Qualification,N,Fail
+10550,F,35-55,HE Qualification,N,Fail
+10551,F,35-55,A-level,N,Pass
+10552,F,35-55,HE Qualification,N,Pass
+10553,M,0-35,Lower than A-level,N,Withdrawn
+10554,M,35-55,HE Qualification,N,Pass
+10555,F,55<,Lower than A-level,N,Pass
+10556,F,0-35,HE Qualification,N,Pass
+10557,F,0-35,Lower than A-level,N,Fail
+10558,F,0-35,Lower than A-level,N,Fail
+10559,F,0-35,HE Qualification,N,Fail
+10560,F,55<,HE Qualification,Y,Pass
+10561,M,35-55,Lower than A-level,N,Pass
+10562,F,0-35,Lower than A-level,N,Pass
+10563,M,0-35,Lower than A-level,N,Pass
+10564,F,35-55,A-level,N,Fail
+10565,M,55<,HE Qualification,N,Pass
+10566,F,0-35,Lower than A-level,N,Pass
+10567,M,55<,Lower than A-level,N,Fail
+10568,F,55<,Lower than A-level,N,Pass
+10569,M,55<,Lower than A-level,N,Pass
+10570,M,55<,HE Qualification,N,Pass
+10571,M,35-55,A-level,N,Pass
+10572,F,0-35,Lower than A-level,N,Pass
+10573,M,0-35,Lower than A-level,N,Distinction
+10574,M,55<,Lower than A-level,N,Pass
+10575,F,0-35,Lower than A-level,N,Fail
+10576,F,0-35,Lower than A-level,N,Pass
+10577,F,55<,A-level,N,Fail
+10578,M,35-55,Lower than A-level,N,Pass
+10579,F,0-35,A-level,N,Fail
+10580,F,0-35,A-level,N,Pass
+10581,M,55<,A-level,N,Pass
+10582,M,55<,A-level,N,Fail
+10583,F,35-55,A-level,N,Withdrawn
+10584,M,35-55,HE Qualification,N,Pass
+10585,F,0-35,A-level,N,Pass
+10586,M,55<,Lower than A-level,N,Distinction
+10587,M,55<,Lower than A-level,N,Fail
+10588,F,0-35,Lower than A-level,N,Pass
+10589,F,55<,HE Qualification,N,Pass
+10590,M,55<,A-level,N,Pass
+10591,M,55<,HE Qualification,N,Pass
+10592,F,55<,A-level,N,Pass
+10593,M,35-55,Lower than A-level,N,Pass
+10594,F,55<,HE Qualification,N,Withdrawn
+10595,M,55<,Lower than A-level,N,Pass
+10596,F,55<,Lower than A-level,N,Fail
+10597,M,0-35,Lower than A-level,N,Pass
+10598,F,55<,A-level,N,Fail
+10599,M,55<,Lower than A-level,N,Pass
+10600,M,0-35,HE Qualification,N,Pass
+10601,F,0-35,HE Qualification,N,Withdrawn
+10602,F,55<,A-level,N,Fail
+10603,M,55<,Lower than A-level,N,Withdrawn
+10604,F,55<,HE Qualification,N,Withdrawn
+10605,M,35-55,Lower than A-level,N,Withdrawn
+10606,M,0-35,Lower than A-level,N,Withdrawn
+10607,F,55<,A-level,N,Withdrawn
+10608,F,35-55,HE Qualification,N,Pass
+10609,M,0-35,A-level,N,Fail
+10610,F,35-55,HE Qualification,N,Fail
+10611,F,55<,HE Qualification,N,Pass
+10612,M,35-55,HE Qualification,N,Withdrawn
+10613,F,35-55,Lower than A-level,N,Pass
+10614,F,0-35,HE Qualification,N,Distinction
+10615,M,0-35,HE Qualification,Y,Withdrawn
+10616,F,0-35,Lower than A-level,N,Pass
+10617,F,55<,HE Qualification,N,Pass
+10618,F,0-35,Lower than A-level,N,Pass
+10619,M,0-35,Lower than A-level,N,Withdrawn
+10620,M,0-35,HE Qualification,N,Pass
+10621,F,35-55,Lower than A-level,N,Pass
+10622,M,0-35,A-level,N,Fail
+10623,F,0-35,HE Qualification,N,Withdrawn
+10624,F,55<,HE Qualification,N,Pass
+10625,F,0-35,A-level,N,Pass
+10626,F,0-35,HE Qualification,N,Pass
+10627,F,55<,A-level,N,Pass
+10628,F,0-35,Lower than A-level,Y,Pass
+10629,M,55<,Lower than A-level,N,Withdrawn
+10630,M,35-55,Lower than A-level,N,Pass
+10631,F,0-35,Lower than A-level,N,Pass
+10632,M,35-55,HE Qualification,N,Pass
+10633,F,55<,Lower than A-level,N,Pass
+10634,M,55<,A-level,N,Pass
+10635,M,55<,Lower than A-level,N,Pass
+10636,F,55<,A-level,N,Withdrawn
+10637,M,55<,A-level,N,Withdrawn
+10638,F,35-55,HE Qualification,N,Fail
+10639,F,55<,Lower than A-level,N,Pass
+10640,F,55<,A-level,N,Pass
+10641,F,0-35,A-level,N,Withdrawn
+10642,M,0-35,HE Qualification,N,Pass
+10643,M,35-55,Lower than A-level,N,Distinction
+10644,M,0-35,A-level,N,Pass
+10645,M,0-35,A-level,Y,Withdrawn
+10646,F,55<,HE Qualification,N,Pass
+10647,M,35-55,Lower than A-level,N,Distinction
+10648,F,0-35,A-level,N,Withdrawn
+10649,F,0-35,Lower than A-level,N,Pass
+10650,F,55<,Lower than A-level,N,Pass
+10651,M,35-55,A-level,N,Pass
+10652,M,0-35,HE Qualification,N,Pass
+10653,M,55<,A-level,N,Withdrawn
+10654,M,55<,HE Qualification,N,Pass
+10655,M,35-55,HE Qualification,N,Pass
+10656,F,0-35,HE Qualification,N,Withdrawn
+10657,F,0-35,A-level,N,Pass
+10658,M,35-55,A-level,N,Distinction
+10659,M,35-55,A-level,N,Withdrawn
+10660,M,35-55,A-level,N,Fail
+10661,F,0-35,A-level,N,Pass
+10662,M,35-55,A-level,N,Pass
+10663,F,35-55,A-level,N,Pass
+10664,M,55<,HE Qualification,N,Fail
+10665,M,55<,HE Qualification,N,Pass
+10666,M,35-55,A-level,Y,Pass
+10667,F,35-55,A-level,N,Withdrawn
+10668,F,35-55,Lower than A-level,N,Withdrawn
+10669,F,35-55,Lower than A-level,Y,Pass
+10670,M,35-55,Lower than A-level,N,Withdrawn
+10671,F,55<,Lower than A-level,N,Distinction
+10672,F,0-35,Lower than A-level,N,Withdrawn
+10673,F,55<,A-level,N,Withdrawn
+10674,F,35-55,HE Qualification,N,Withdrawn
+10675,F,0-35,Lower than A-level,N,Fail
+10676,M,0-35,A-level,N,Withdrawn
+10677,F,0-35,HE Qualification,N,Fail
+10678,F,55<,Lower than A-level,N,Fail
+10679,F,0-35,HE Qualification,N,Fail
+10680,M,0-35,Lower than A-level,N,Distinction
+10681,F,55<,A-level,N,Fail
+10682,F,0-35,HE Qualification,N,Withdrawn
+10683,M,55<,A-level,N,Pass
+10684,M,35-55,Lower than A-level,N,Pass
+10685,M,55<,Lower than A-level,N,Pass
+10686,F,0-35,A-level,N,Withdrawn
+10687,M,0-35,Lower than A-level,N,Pass
+10688,F,35-55,A-level,N,Pass
+10689,M,0-35,HE Qualification,N,Fail
+10690,F,0-35,HE Qualification,N,Pass
+10691,M,55<,A-level,N,Withdrawn
+10692,M,0-35,Lower than A-level,N,Withdrawn
+10693,M,35-55,Lower than A-level,N,Fail
+10694,M,35-55,Lower than A-level,N,Withdrawn
+10695,M,0-35,A-level,N,Pass
+10696,F,35-55,HE Qualification,N,Withdrawn
+10697,F,55<,Lower than A-level,N,Pass
+10698,F,0-35,Lower than A-level,N,Pass
+10699,F,55<,A-level,N,Withdrawn
+10700,F,35-55,A-level,N,Pass
+10701,F,0-35,A-level,N,Pass
+10702,M,0-35,Lower than A-level,N,Pass
+10703,F,0-35,A-level,N,Withdrawn
+10704,F,0-35,Lower than A-level,N,Withdrawn
+10705,M,55<,HE Qualification,N,Withdrawn
+10706,F,35-55,HE Qualification,N,Pass
+10707,F,0-35,A-level,N,Fail
+10708,F,0-35,HE Qualification,N,Pass
+10709,M,0-35,Lower than A-level,N,Pass
+10710,M,0-35,Lower than A-level,Y,Pass
+10711,F,35-55,A-level,N,Pass
+10712,F,35-55,A-level,N,Pass
+10713,F,35-55,HE Qualification,N,Pass
+10714,F,35-55,A-level,N,Withdrawn
+10715,M,55<,HE Qualification,N,Pass
+10716,M,0-35,HE Qualification,Y,Pass
+10717,M,55<,Lower than A-level,N,Fail
+10718,F,35-55,A-level,N,Pass
+10719,M,55<,Lower than A-level,N,Pass
+10720,M,0-35,A-level,Y,Fail
+10721,M,55<,Lower than A-level,N,Pass
+10722,F,55<,A-level,N,Pass
+10723,F,55<,A-level,N,Pass
+10724,F,55<,HE Qualification,N,Fail
+10725,M,35-55,Lower than A-level,N,Pass
+10726,F,55<,HE Qualification,N,Pass
+10727,M,55<,HE Qualification,N,Withdrawn
+10728,F,0-35,A-level,N,Pass
+10729,F,35-55,A-level,N,Withdrawn
+10730,F,35-55,HE Qualification,N,Pass
+10731,M,0-35,Lower than A-level,N,Withdrawn
+10732,F,35-55,Lower than A-level,N,Pass
+10733,F,0-35,HE Qualification,N,Pass
+10734,M,0-35,Lower than A-level,N,Fail
+10735,F,55<,Lower than A-level,N,Pass
+10736,F,55<,HE Qualification,N,Pass
+10737,F,35-55,A-level,N,Pass
+10738,F,0-35,Lower than A-level,N,Pass
+10739,M,0-35,A-level,N,Withdrawn
+10740,M,55<,HE Qualification,N,Pass
+10741,F,55<,HE Qualification,N,Pass
+10742,M,55<,HE Qualification,N,Withdrawn
+10743,F,35-55,Lower than A-level,N,Distinction
+10744,M,0-35,Lower than A-level,N,Withdrawn
+10745,M,55<,Lower than A-level,N,Distinction
+10746,M,35-55,A-level,N,Withdrawn
+10747,M,0-35,HE Qualification,N,Pass
+10748,F,55<,HE Qualification,N,Withdrawn
+10749,F,0-35,HE Qualification,N,Pass
+10750,M,55<,HE Qualification,N,Withdrawn
+10751,F,55<,HE Qualification,N,Pass
+10752,M,0-35,HE Qualification,N,Fail
+10753,M,35-55,Lower than A-level,N,Pass
+10754,F,55<,Lower than A-level,N,Pass
+10755,M,0-35,HE Qualification,N,Pass
+10756,M,55<,Lower than A-level,N,Pass
+10757,F,35-55,HE Qualification,N,Fail
+10758,F,35-55,Lower than A-level,N,Withdrawn
+10759,M,35-55,Lower than A-level,N,Withdrawn
+10760,M,35-55,Lower than A-level,N,Withdrawn
+10761,M,35-55,Lower than A-level,N,Pass
+10762,M,0-35,HE Qualification,N,Pass
+10763,M,55<,Lower than A-level,N,Pass
+10764,M,0-35,HE Qualification,N,Pass
+10765,M,35-55,Lower than A-level,N,Withdrawn
+10766,M,55<,A-level,N,Pass
+10767,M,0-35,A-level,N,Fail
+10768,F,35-55,A-level,N,Withdrawn
+10769,F,55<,Lower than A-level,N,Fail
+10770,F,35-55,Lower than A-level,N,Fail
+10771,F,35-55,HE Qualification,N,Pass
+10772,F,0-35,HE Qualification,N,Pass
+10773,M,35-55,A-level,Y,Withdrawn
+10774,F,35-55,Lower than A-level,N,Fail
+10775,F,35-55,Lower than A-level,N,Pass
+10776,M,0-35,Lower than A-level,N,Withdrawn
+10777,M,35-55,HE Qualification,N,Fail
+10778,M,55<,A-level,N,Pass
+10779,F,35-55,A-level,Y,Withdrawn
+10780,F,0-35,Lower than A-level,N,Pass
+10781,M,35-55,A-level,N,Pass
+10782,M,35-55,A-level,N,Pass
+10783,M,55<,A-level,N,Pass
+10784,M,55<,A-level,N,Withdrawn
+10785,M,0-35,A-level,N,Withdrawn
+10786,M,35-55,A-level,N,Pass
+10787,F,35-55,A-level,N,Distinction
+10788,F,0-35,Lower than A-level,N,Fail
+10789,M,55<,HE Qualification,N,Pass
+10790,M,0-35,HE Qualification,N,Fail
+10791,M,55<,A-level,N,Pass
+10792,F,55<,Lower than A-level,N,Pass
+10793,F,55<,HE Qualification,N,Pass
+10794,M,55<,A-level,N,Fail
+10795,M,35-55,A-level,N,Pass
+10796,F,55<,Lower than A-level,N,Withdrawn
+10797,F,55<,HE Qualification,N,Withdrawn
+10798,M,35-55,Lower than A-level,N,Fail
+10799,F,35-55,HE Qualification,N,Pass
+10800,M,55<,HE Qualification,N,Pass
+10801,M,35-55,A-level,N,Withdrawn
+10802,M,35-55,A-level,N,Pass
+10803,F,55<,Lower than A-level,N,Fail
+10804,M,35-55,A-level,N,Fail
+10805,M,0-35,A-level,N,Pass
+10806,F,0-35,A-level,N,Pass
+10807,F,0-35,HE Qualification,Y,Withdrawn
+10808,F,55<,Lower than A-level,N,Withdrawn
+10809,M,35-55,Lower than A-level,N,Pass
+10810,M,35-55,A-level,N,Pass
+10811,F,0-35,Lower than A-level,N,Pass
+10812,F,55<,A-level,N,Fail
+10813,M,0-35,A-level,N,Withdrawn
+10814,M,35-55,A-level,N,Fail
+10815,F,0-35,Lower than A-level,Y,Fail
+10816,M,0-35,HE Qualification,N,Pass
+10817,M,0-35,HE Qualification,N,Pass
+10818,F,0-35,HE Qualification,N,Fail
+10819,F,35-55,HE Qualification,Y,Distinction
+10820,F,0-35,A-level,N,Withdrawn
+10821,F,55<,HE Qualification,N,Pass
+10822,F,35-55,A-level,N,Pass
+10823,M,55<,Lower than A-level,Y,Pass
+10824,F,35-55,A-level,N,Withdrawn
+10825,M,0-35,Lower than A-level,Y,Pass
+10826,M,35-55,Lower than A-level,N,Pass
+10827,M,35-55,HE Qualification,N,Pass
+10828,F,35-55,Lower than A-level,N,Pass
+10829,M,0-35,HE Qualification,N,Pass
+10830,F,35-55,Lower than A-level,N,Pass
+10831,F,0-35,HE Qualification,N,Fail
+10832,F,35-55,A-level,N,Withdrawn
+10833,M,55<,HE Qualification,N,Pass
+10834,M,0-35,HE Qualification,N,Pass
+10835,F,55<,A-level,N,Distinction
+10836,F,55<,Lower than A-level,Y,Pass
+10837,M,0-35,Lower than A-level,N,Pass
+10838,M,55<,Lower than A-level,N,Pass
+10839,M,0-35,Lower than A-level,N,Pass
+10840,F,35-55,HE Qualification,N,Pass
+10841,M,0-35,HE Qualification,N,Pass
+10842,M,0-35,HE Qualification,N,Pass
+10843,F,55<,HE Qualification,N,Pass
+10844,M,35-55,Lower than A-level,N,Fail
+10845,M,35-55,A-level,N,Withdrawn
+10846,F,35-55,Lower than A-level,N,Pass
+10847,F,55<,A-level,N,Distinction
+10848,F,55<,A-level,N,Withdrawn
+10849,M,0-35,Lower than A-level,N,Pass
+10850,M,35-55,A-level,N,Fail
+10851,F,0-35,A-level,N,Pass
+10852,M,35-55,A-level,Y,Fail
+10853,F,55<,A-level,N,Withdrawn
+10854,F,0-35,Lower than A-level,N,Pass
+10855,F,35-55,A-level,N,Pass
+10856,F,0-35,HE Qualification,N,Pass
+10857,M,55<,A-level,N,Fail
+10858,M,55<,HE Qualification,N,Distinction
+10859,F,0-35,HE Qualification,N,Fail
+10860,M,35-55,HE Qualification,N,Pass
+10861,M,35-55,Lower than A-level,Y,Fail
+10862,M,55<,HE Qualification,N,Withdrawn
+10863,M,0-35,Lower than A-level,N,Withdrawn
+10864,M,35-55,A-level,N,Withdrawn
+10865,M,55<,Lower than A-level,Y,Withdrawn
+10866,M,35-55,A-level,N,Pass
+10867,F,0-35,A-level,N,Distinction
+10868,F,35-55,Lower than A-level,N,Withdrawn
+10869,F,35-55,HE Qualification,N,Fail
+10870,F,0-35,HE Qualification,N,Withdrawn
+10871,F,0-35,Lower than A-level,N,Distinction
+10872,M,35-55,Lower than A-level,N,Withdrawn
+10873,F,35-55,Lower than A-level,N,Pass
+10874,M,0-35,A-level,N,Withdrawn
+10875,M,0-35,A-level,N,Pass
+10876,F,0-35,A-level,N,Distinction
+10877,M,0-35,Lower than A-level,N,Pass
+10878,F,55<,HE Qualification,N,Withdrawn
+10879,F,55<,HE Qualification,Y,Withdrawn
+10880,F,55<,A-level,N,Pass
+10881,F,35-55,Lower than A-level,N,Pass
+10882,F,55<,Lower than A-level,N,Pass
+10883,M,55<,HE Qualification,N,Pass
+10884,M,55<,HE Qualification,N,Fail
+10885,F,55<,A-level,N,Withdrawn
+10886,M,55<,A-level,N,Fail
+10887,F,0-35,HE Qualification,N,Fail
+10888,F,0-35,A-level,N,Pass
+10889,F,55<,Lower than A-level,N,Fail
+10890,M,35-55,HE Qualification,N,Pass
+10891,F,35-55,Lower than A-level,N,Withdrawn
+10892,F,0-35,Lower than A-level,N,Pass
+10893,M,55<,A-level,N,Withdrawn
+10894,F,55<,A-level,N,Distinction
+10895,F,0-35,HE Qualification,N,Fail
+10896,M,55<,HE Qualification,N,Fail
+10897,M,0-35,HE Qualification,N,Pass
+10898,F,55<,A-level,N,Pass
+10899,F,55<,A-level,N,Pass
+10900,M,35-55,HE Qualification,N,Pass
+10901,M,55<,Lower than A-level,N,Pass
+10902,F,35-55,A-level,N,Distinction
+10903,M,55<,HE Qualification,N,Pass
+10904,M,0-35,Lower than A-level,Y,Pass
+10905,M,0-35,Lower than A-level,N,Pass
+10906,M,0-35,HE Qualification,N,Distinction
+10907,M,35-55,Lower than A-level,N,Pass
+10908,F,0-35,A-level,N,Fail
+10909,F,35-55,HE Qualification,Y,Fail
+10910,F,55<,HE Qualification,N,Pass
+10911,F,55<,Lower than A-level,N,Withdrawn
+10912,M,55<,HE Qualification,Y,Withdrawn
+10913,M,55<,HE Qualification,N,Pass
+10914,F,35-55,HE Qualification,N,Withdrawn
+10915,M,55<,Lower than A-level,N,Distinction
+10916,F,35-55,HE Qualification,N,Fail
+10917,M,0-35,Lower than A-level,N,Pass
+10918,M,35-55,HE Qualification,N,Fail
+10919,M,55<,HE Qualification,N,Fail
+10920,M,55<,A-level,N,Pass
+10921,F,35-55,HE Qualification,N,Pass
+10922,F,55<,Lower than A-level,N,Pass
+10923,M,35-55,Lower than A-level,N,Pass
+10924,M,35-55,HE Qualification,N,Pass
+10925,M,35-55,HE Qualification,N,Pass
+10926,M,0-35,A-level,N,Withdrawn
+10927,F,0-35,Lower than A-level,N,Withdrawn
+10928,M,55<,Lower than A-level,N,Pass
+10929,M,0-35,A-level,N,Pass
+10930,M,35-55,Lower than A-level,N,Fail
+10931,M,55<,HE Qualification,N,Pass
+10932,F,35-55,HE Qualification,N,Withdrawn
+10933,F,55<,HE Qualification,N,Withdrawn
+10934,M,0-35,Lower than A-level,N,Fail
+10935,F,55<,Lower than A-level,N,Fail
+10936,M,35-55,A-level,N,Pass
+10937,F,55<,HE Qualification,N,Withdrawn
+10938,F,0-35,HE Qualification,N,Distinction
+10939,F,35-55,Lower than A-level,Y,Pass
+10940,M,0-35,HE Qualification,N,Withdrawn
+10941,F,55<,Lower than A-level,N,Pass
+10942,M,0-35,A-level,N,Pass
+10943,F,55<,A-level,N,Pass
+10944,F,35-55,HE Qualification,N,Fail
+10945,F,0-35,A-level,N,Fail
+10946,M,0-35,A-level,N,Pass
+10947,M,35-55,A-level,N,Pass
+10948,F,55<,Lower than A-level,N,Pass
+10949,M,35-55,HE Qualification,N,Distinction
+10950,F,55<,HE Qualification,N,Pass
+10951,F,35-55,Lower than A-level,N,Pass
+10952,M,35-55,A-level,N,Pass
+10953,M,0-35,Lower than A-level,N,Pass
+10954,F,0-35,Lower than A-level,N,Fail
+10955,M,35-55,Lower than A-level,N,Pass
+10956,M,35-55,HE Qualification,N,Fail
+10957,F,35-55,A-level,N,Withdrawn
+10958,M,35-55,A-level,N,Withdrawn
+10959,M,0-35,Lower than A-level,N,Pass
+10960,F,35-55,A-level,N,Pass
+10961,M,35-55,Lower than A-level,N,Pass
+10962,M,55<,HE Qualification,N,Pass
+10963,F,55<,Lower than A-level,N,Withdrawn
+10964,M,55<,Lower than A-level,N,Pass
+10965,F,55<,A-level,N,Pass
+10966,M,35-55,Lower than A-level,N,Withdrawn
+10967,M,35-55,HE Qualification,N,Withdrawn
+10968,F,35-55,HE Qualification,N,Pass
+10969,F,55<,HE Qualification,N,Fail
+10970,M,55<,HE Qualification,N,Pass
+10971,M,35-55,A-level,N,Fail
+10972,M,35-55,Lower than A-level,N,Withdrawn
+10973,F,35-55,HE Qualification,N,Pass
+10974,F,55<,Lower than A-level,N,Pass
+10975,F,0-35,Lower than A-level,N,Pass
+10976,F,0-35,A-level,Y,Pass
+10977,F,0-35,A-level,N,Pass
+10978,F,55<,Lower than A-level,N,Pass
+10979,M,55<,HE Qualification,N,Pass
+10980,M,35-55,A-level,N,Fail
+10981,F,55<,HE Qualification,N,Fail
+10982,M,55<,A-level,N,Fail
+10983,F,35-55,HE Qualification,N,Pass
+10984,M,35-55,A-level,N,Pass
+10985,F,35-55,HE Qualification,N,Withdrawn
+10986,M,35-55,A-level,N,Distinction
+10987,F,35-55,HE Qualification,N,Pass
+10988,M,35-55,HE Qualification,N,Pass
+10989,M,35-55,A-level,N,Withdrawn
+10990,M,35-55,A-level,N,Fail
+10991,F,35-55,Lower than A-level,N,Pass
+10992,M,0-35,Lower than A-level,N,Withdrawn
+10993,F,0-35,A-level,N,Withdrawn
+10994,F,55<,A-level,Y,Pass
+10995,M,0-35,HE Qualification,N,Pass
+10996,F,55<,Lower than A-level,N,Withdrawn
+10997,F,35-55,Lower than A-level,N,Pass
+10998,M,55<,HE Qualification,N,Withdrawn
+10999,M,0-35,Lower than A-level,N,Fail
+11000,M,0-35,A-level,N,Pass
+11001,F,55<,Lower than A-level,N,Distinction
+11002,F,0-35,A-level,N,Pass
+11003,M,0-35,Lower than A-level,N,Distinction
+11004,F,0-35,HE Qualification,N,Withdrawn
+11005,F,35-55,HE Qualification,N,Pass
+11006,M,35-55,Lower than A-level,N,Withdrawn
+11007,F,35-55,Lower than A-level,N,Pass
+11008,M,0-35,Lower than A-level,N,Pass
+11009,M,55<,A-level,Y,Fail
+11010,F,35-55,Lower than A-level,N,Withdrawn
+11011,F,35-55,Lower than A-level,N,Pass
+11012,M,55<,HE Qualification,N,Withdrawn
+11013,F,55<,A-level,N,Distinction
+11014,F,0-35,A-level,N,Pass
+11015,F,0-35,HE Qualification,Y,Pass
+11016,M,55<,Lower than A-level,N,Fail
+11017,F,0-35,HE Qualification,N,Pass
+11018,F,55<,Lower than A-level,N,Fail
+11019,F,0-35,A-level,N,Pass
+11020,M,35-55,A-level,N,Fail
+11021,M,55<,HE Qualification,N,Pass
+11022,M,55<,Lower than A-level,N,Pass
+11023,M,55<,Lower than A-level,N,Fail
+11024,F,55<,Lower than A-level,N,Pass
+11025,F,0-35,HE Qualification,N,Fail
+11026,M,0-35,Lower than A-level,N,Pass
+11027,F,0-35,A-level,N,Pass
+11028,M,35-55,A-level,N,Pass
+11029,F,35-55,HE Qualification,N,Fail
+11030,F,0-35,A-level,N,Pass
+11031,M,35-55,Lower than A-level,N,Pass
+11032,F,0-35,HE Qualification,N,Withdrawn
+11033,M,35-55,HE Qualification,N,Withdrawn
+11034,M,35-55,A-level,N,Fail
+11035,M,0-35,Lower than A-level,N,Pass
+11036,F,0-35,HE Qualification,N,Pass
+11037,M,0-35,Lower than A-level,N,Pass
+11038,F,35-55,HE Qualification,N,Pass
+11039,M,55<,HE Qualification,Y,Withdrawn
+11040,F,0-35,HE Qualification,N,Withdrawn
+11041,F,55<,HE Qualification,N,Withdrawn
+11042,M,55<,Lower than A-level,N,Pass
+11043,F,0-35,A-level,Y,Pass
+11044,F,0-35,A-level,N,Pass
+11045,M,0-35,Lower than A-level,N,Withdrawn
+11046,M,35-55,A-level,N,Pass
+11047,M,0-35,Lower than A-level,N,Pass
+11048,F,55<,A-level,N,Fail
+11049,M,0-35,HE Qualification,N,Withdrawn
+11050,M,55<,Lower than A-level,N,Distinction
+11051,F,55<,A-level,N,Fail
+11052,F,55<,Lower than A-level,N,Pass
+11053,M,55<,Lower than A-level,N,Fail
+11054,M,55<,A-level,N,Withdrawn
+11055,F,55<,A-level,N,Withdrawn
+11056,M,55<,A-level,N,Fail
+11057,M,0-35,Lower than A-level,N,Pass
+11058,F,35-55,A-level,N,Pass
+11059,M,55<,A-level,N,Withdrawn
+11060,F,0-35,Lower than A-level,N,Fail
+11061,M,35-55,HE Qualification,N,Distinction
+11062,M,0-35,HE Qualification,N,Withdrawn
+11063,F,55<,A-level,N,Fail
+11064,F,35-55,HE Qualification,N,Pass
+11065,M,0-35,Lower than A-level,N,Fail
+11066,F,0-35,A-level,N,Pass
+11067,F,0-35,A-level,N,Withdrawn
+11068,M,0-35,A-level,N,Withdrawn
+11069,M,35-55,HE Qualification,N,Pass
+11070,M,35-55,A-level,N,Withdrawn
+11071,M,55<,A-level,N,Withdrawn
+11072,F,55<,HE Qualification,N,Withdrawn
+11073,M,0-35,HE Qualification,N,Withdrawn
+11074,M,0-35,HE Qualification,N,Withdrawn
+11075,M,55<,A-level,N,Pass
+11076,F,35-55,Lower than A-level,N,Pass
+11077,M,35-55,Lower than A-level,N,Fail
+11078,F,55<,HE Qualification,N,Pass
+11079,M,0-35,A-level,N,Withdrawn
+11080,F,35-55,Lower than A-level,N,Pass
+11081,M,35-55,HE Qualification,N,Pass
+11082,M,0-35,Lower than A-level,N,Withdrawn
+11083,F,55<,Lower than A-level,N,Pass
+11084,F,0-35,Lower than A-level,N,Pass
+11085,M,55<,A-level,N,Distinction
+11086,M,35-55,A-level,N,Pass
+11087,M,55<,HE Qualification,N,Pass
+11088,F,0-35,Lower than A-level,N,Pass
+11089,M,55<,HE Qualification,N,Withdrawn
+11090,F,55<,A-level,N,Pass
+11091,M,35-55,A-level,N,Pass
+11092,F,0-35,Lower than A-level,Y,Pass
+11093,F,35-55,HE Qualification,N,Pass
+11094,F,0-35,A-level,N,Pass
+11095,M,0-35,A-level,N,Pass
+11096,M,0-35,HE Qualification,N,Withdrawn
+11097,F,35-55,A-level,N,Withdrawn
+11098,F,35-55,HE Qualification,N,Fail
+11099,M,55<,A-level,N,Pass
+11100,F,35-55,HE Qualification,N,Fail
+11101,M,0-35,HE Qualification,Y,Pass
+11102,F,0-35,Lower than A-level,N,Pass
+11103,F,55<,A-level,Y,Withdrawn
+11104,F,35-55,A-level,N,Pass
+11105,M,55<,A-level,N,Fail
+11106,F,0-35,HE Qualification,N,Fail
+11107,M,35-55,HE Qualification,N,Withdrawn
+11108,F,35-55,HE Qualification,N,Pass
+11109,M,55<,HE Qualification,N,Pass
+11110,F,35-55,HE Qualification,N,Fail
+11111,M,0-35,HE Qualification,N,Pass
+11112,M,0-35,Lower than A-level,N,Withdrawn
+11113,F,55<,Lower than A-level,N,Withdrawn
+11114,F,55<,A-level,Y,Pass
+11115,M,35-55,A-level,N,Pass
+11116,M,35-55,Lower than A-level,N,Withdrawn
+11117,F,35-55,A-level,N,Fail
+11118,F,55<,Lower than A-level,N,Pass
+11119,M,0-35,HE Qualification,N,Fail
+11120,M,55<,Lower than A-level,N,Pass
+11121,M,0-35,HE Qualification,N,Withdrawn
+11122,F,35-55,HE Qualification,N,Fail
+11123,M,55<,Lower than A-level,N,Pass
+11124,F,35-55,HE Qualification,N,Pass
+11125,M,35-55,HE Qualification,N,Distinction
+11126,M,0-35,A-level,N,Pass
+11127,F,55<,Lower than A-level,N,Fail
+11128,M,35-55,A-level,N,Pass
+11129,F,55<,Lower than A-level,Y,Fail
+11130,F,55<,HE Qualification,N,Pass
+11131,M,0-35,Lower than A-level,N,Distinction
+11132,F,35-55,HE Qualification,N,Pass
+11133,M,0-35,Lower than A-level,N,Fail
+11134,F,0-35,A-level,N,Withdrawn
+11135,M,55<,Lower than A-level,N,Fail
+11136,F,55<,HE Qualification,N,Pass
+11137,M,35-55,Lower than A-level,N,Withdrawn
+11138,M,55<,HE Qualification,N,Pass
+11139,M,35-55,Lower than A-level,N,Fail
+11140,F,0-35,HE Qualification,N,Fail
+11141,M,55<,A-level,Y,Pass
+11142,F,35-55,Lower than A-level,N,Pass
+11143,M,35-55,A-level,N,Withdrawn
+11144,F,55<,Lower than A-level,N,Withdrawn
+11145,F,35-55,Lower than A-level,N,Pass
+11146,F,35-55,A-level,N,Distinction
+11147,F,35-55,A-level,N,Pass
+11148,M,55<,A-level,N,Pass
+11149,F,55<,Lower than A-level,N,Pass
+11150,F,55<,Lower than A-level,N,Withdrawn
+11151,F,35-55,Lower than A-level,N,Pass
+11152,F,0-35,HE Qualification,Y,Withdrawn
+11153,M,55<,HE Qualification,N,Pass
+11154,M,0-35,Lower than A-level,N,Pass
+11155,F,55<,A-level,N,Withdrawn
+11156,M,0-35,A-level,N,Pass
+11157,M,0-35,Lower than A-level,N,Withdrawn
+11158,F,35-55,A-level,N,Fail
+11159,F,0-35,HE Qualification,N,Pass
+11160,F,55<,Lower than A-level,N,Pass
+11161,F,35-55,HE Qualification,N,Pass
+11162,M,0-35,A-level,N,Pass
+11163,M,55<,A-level,N,Withdrawn
+11164,F,0-35,A-level,N,Pass
+11165,F,0-35,Lower than A-level,N,Pass
+11166,M,35-55,A-level,Y,Pass
+11167,M,55<,Lower than A-level,N,Fail
+11168,F,55<,HE Qualification,N,Withdrawn
+11169,M,55<,Lower than A-level,N,Pass
+11170,F,55<,HE Qualification,N,Pass
+11171,F,55<,HE Qualification,N,Pass
+11172,F,0-35,HE Qualification,N,Pass
+11173,M,0-35,HE Qualification,N,Withdrawn
+11174,M,55<,A-level,N,Pass
+11175,F,0-35,HE Qualification,N,Fail
+11176,F,35-55,A-level,N,Withdrawn
+11177,F,35-55,Lower than A-level,N,Pass
+11178,M,35-55,Lower than A-level,N,Fail
+11179,F,0-35,HE Qualification,N,Fail
+11180,M,0-35,Lower than A-level,N,Fail
+11181,M,55<,HE Qualification,N,Withdrawn
+11182,F,35-55,HE Qualification,N,Pass
+11183,M,0-35,Lower than A-level,N,Pass
+11184,F,55<,A-level,N,Fail
+11185,M,0-35,HE Qualification,N,Pass
+11186,M,35-55,Lower than A-level,Y,Pass
+11187,F,35-55,HE Qualification,N,Pass
+11188,F,0-35,A-level,N,Pass
+11189,M,55<,HE Qualification,N,Withdrawn
+11190,F,35-55,Lower than A-level,N,Pass
+11191,M,0-35,Lower than A-level,N,Pass
+11192,M,55<,HE Qualification,N,Pass
+11193,M,0-35,A-level,N,Pass
+11194,F,0-35,A-level,N,Pass
+11195,F,0-35,Lower than A-level,N,Fail
+11196,M,55<,A-level,N,Pass
+11197,M,0-35,A-level,N,Fail
+11198,F,0-35,Lower than A-level,N,Pass
+11199,M,35-55,A-level,N,Pass
+11200,M,0-35,HE Qualification,N,Fail
+11201,M,0-35,Lower than A-level,N,Pass
+11202,M,55<,A-level,N,Pass
+11203,F,35-55,Lower than A-level,N,Withdrawn
+11204,M,35-55,Lower than A-level,N,Distinction
+11205,F,0-35,A-level,N,Pass
+11206,F,55<,A-level,N,Pass
+11207,F,0-35,Lower than A-level,N,Withdrawn
+11208,F,0-35,A-level,N,Fail
+11209,M,55<,HE Qualification,N,Pass
+11210,F,55<,A-level,N,Pass
+11211,F,55<,Lower than A-level,N,Pass
+11212,M,55<,Lower than A-level,N,Pass
+11213,F,35-55,Lower than A-level,N,Pass
+11214,M,55<,Lower than A-level,N,Withdrawn
+11215,F,55<,A-level,N,Pass
+11216,F,55<,Lower than A-level,N,Fail
+11217,F,35-55,A-level,N,Fail
+11218,M,55<,A-level,N,Withdrawn
+11219,F,0-35,Lower than A-level,N,Pass
+11220,M,55<,A-level,N,Pass
+11221,F,0-35,Lower than A-level,N,Withdrawn
+11222,M,35-55,Lower than A-level,N,Distinction
+11223,M,35-55,A-level,N,Pass
+11224,F,55<,HE Qualification,N,Pass
+11225,F,0-35,A-level,N,Fail
+11226,M,0-35,Lower than A-level,N,Pass
+11227,M,55<,Lower than A-level,N,Pass
+11228,M,0-35,Lower than A-level,N,Pass
+11229,M,0-35,A-level,Y,Withdrawn
+11230,F,55<,A-level,N,Fail
+11231,M,0-35,HE Qualification,N,Pass
+11232,M,0-35,A-level,N,Pass
+11233,F,0-35,HE Qualification,N,Pass
+11234,M,55<,HE Qualification,N,Pass
+11235,F,55<,A-level,N,Fail
+11236,F,55<,HE Qualification,N,Pass
+11237,M,0-35,Lower than A-level,N,Pass
+11238,F,35-55,A-level,N,Pass
+11239,F,55<,A-level,N,Fail
+11240,M,55<,A-level,N,Fail
+11241,M,55<,A-level,N,Fail
+11242,M,55<,Lower than A-level,N,Withdrawn
+11243,M,55<,A-level,Y,Pass
+11244,F,35-55,Lower than A-level,N,Withdrawn
+11245,M,55<,A-level,Y,Pass
+11246,F,0-35,Lower than A-level,N,Pass
+11247,M,35-55,A-level,N,Fail
+11248,M,35-55,HE Qualification,N,Distinction
+11249,M,0-35,Lower than A-level,N,Pass
+11250,F,35-55,A-level,N,Pass
+11251,M,0-35,Lower than A-level,N,Pass
+11252,M,55<,HE Qualification,N,Distinction
+11253,M,0-35,HE Qualification,N,Withdrawn
+11254,F,55<,HE Qualification,N,Withdrawn
+11255,M,55<,Lower than A-level,N,Pass
+11256,M,0-35,HE Qualification,N,Withdrawn
+11257,M,0-35,HE Qualification,N,Pass
+11258,F,0-35,HE Qualification,N,Pass
+11259,F,55<,Lower than A-level,N,Pass
+11260,M,55<,A-level,N,Pass
+11261,M,55<,A-level,N,Fail
+11262,F,35-55,HE Qualification,N,Distinction
+11263,F,55<,HE Qualification,N,Pass
+11264,F,0-35,A-level,N,Distinction
+11265,F,0-35,Lower than A-level,N,Pass
+11266,M,35-55,A-level,N,Pass
+11267,F,55<,A-level,N,Pass
+11268,F,55<,HE Qualification,N,Pass
+11269,M,35-55,HE Qualification,N,Pass
+11270,F,55<,HE Qualification,N,Pass
+11271,M,0-35,Lower than A-level,N,Fail
+11272,M,55<,A-level,N,Fail
+11273,M,0-35,Lower than A-level,N,Pass
+11274,M,55<,Lower than A-level,N,Withdrawn
+11275,F,0-35,Lower than A-level,N,Pass
+11276,F,35-55,A-level,N,Pass
+11277,F,0-35,Lower than A-level,N,Distinction
+11278,F,55<,Lower than A-level,N,Pass
+11279,M,55<,HE Qualification,N,Pass
+11280,M,0-35,Lower than A-level,N,Pass
+11281,M,55<,Lower than A-level,N,Fail
+11282,M,0-35,Lower than A-level,N,Pass
+11283,F,55<,HE Qualification,N,Pass
+11284,M,55<,Lower than A-level,N,Distinction
+11285,M,35-55,Lower than A-level,N,Fail
+11286,F,0-35,A-level,N,Fail
+11287,F,35-55,A-level,N,Pass
+11288,M,35-55,A-level,N,Withdrawn
+11289,M,35-55,Lower than A-level,N,Distinction
+11290,M,55<,Lower than A-level,N,Withdrawn
+11291,F,55<,HE Qualification,N,Withdrawn
+11292,M,35-55,A-level,N,Pass
+11293,M,55<,HE Qualification,N,Pass
+11294,F,35-55,Lower than A-level,N,Pass
+11295,F,35-55,A-level,Y,Pass
+11296,F,35-55,Lower than A-level,N,Fail
+11297,M,35-55,A-level,N,Withdrawn
+11298,F,0-35,A-level,N,Pass
+11299,F,0-35,A-level,N,Pass
+11300,F,0-35,A-level,N,Withdrawn
+11301,M,35-55,A-level,N,Distinction
+11302,F,0-35,A-level,N,Pass
+11303,F,35-55,Lower than A-level,N,Withdrawn
+11304,M,55<,HE Qualification,N,Fail
+11305,F,55<,Lower than A-level,N,Fail
+11306,M,35-55,A-level,N,Pass
+11307,F,0-35,HE Qualification,N,Withdrawn
+11308,F,55<,HE Qualification,N,Fail
+11309,F,55<,Lower than A-level,N,Pass
+11310,F,35-55,Lower than A-level,N,Pass
+11311,M,55<,Lower than A-level,Y,Fail
+11312,F,0-35,Lower than A-level,N,Withdrawn
+11313,M,55<,A-level,N,Pass
+11314,F,55<,Lower than A-level,N,Withdrawn
+11315,F,35-55,A-level,N,Pass
+11316,M,35-55,Lower than A-level,N,Withdrawn
+11317,M,0-35,Lower than A-level,Y,Pass
+11318,F,55<,A-level,N,Pass
+11319,M,0-35,A-level,N,Withdrawn
+11320,M,35-55,HE Qualification,N,Withdrawn
+11321,M,35-55,Lower than A-level,N,Pass
+11322,F,55<,A-level,N,Pass
+11323,M,0-35,Lower than A-level,Y,Withdrawn
+11324,F,55<,HE Qualification,N,Withdrawn
+11325,F,0-35,A-level,N,Withdrawn
+11326,F,35-55,HE Qualification,N,Withdrawn
+11327,M,0-35,Lower than A-level,N,Pass
+11328,F,55<,A-level,N,Withdrawn
+11329,M,35-55,HE Qualification,N,Pass
+11330,F,35-55,A-level,N,Withdrawn
+11331,F,0-35,A-level,N,Withdrawn
+11332,F,55<,Lower than A-level,N,Pass
+11333,M,35-55,A-level,N,Withdrawn
+11334,M,55<,A-level,N,Pass
+11335,F,55<,HE Qualification,N,Fail
+11336,M,0-35,HE Qualification,N,Withdrawn
+11337,F,55<,Lower than A-level,N,Pass
+11338,M,55<,HE Qualification,N,Withdrawn
+11339,F,55<,Lower than A-level,N,Pass
+11340,F,35-55,HE Qualification,N,Withdrawn
+11341,F,0-35,HE Qualification,N,Withdrawn
+11342,M,0-35,HE Qualification,N,Fail
+11343,M,35-55,Lower than A-level,N,Withdrawn
+11344,M,55<,HE Qualification,N,Fail
+11345,M,55<,A-level,N,Pass
+11346,F,35-55,Lower than A-level,N,Fail
+11347,M,55<,Lower than A-level,N,Pass
+11348,F,35-55,Lower than A-level,N,Withdrawn
+11349,M,55<,A-level,N,Fail
+11350,M,55<,HE Qualification,N,Pass
+11351,F,55<,Lower than A-level,N,Pass
+11352,M,35-55,HE Qualification,N,Fail
+11353,M,35-55,Lower than A-level,N,Fail
+11354,M,0-35,Lower than A-level,Y,Withdrawn
+11355,M,55<,HE Qualification,N,Withdrawn
+11356,M,55<,A-level,N,Pass
+11357,M,55<,Lower than A-level,N,Withdrawn
+11358,M,35-55,HE Qualification,N,Withdrawn
+11359,F,55<,A-level,N,Fail
+11360,M,55<,HE Qualification,N,Pass
+11361,F,0-35,A-level,N,Withdrawn
+11362,M,0-35,Lower than A-level,N,Withdrawn
+11363,F,0-35,Lower than A-level,N,Pass
+11364,M,0-35,A-level,N,Fail
+11365,M,0-35,Lower than A-level,N,Pass
+11366,M,55<,Lower than A-level,N,Withdrawn
+11367,F,35-55,A-level,N,Withdrawn
+11368,M,0-35,Lower than A-level,N,Pass
+11369,M,35-55,Lower than A-level,N,Fail
+11370,M,0-35,Lower than A-level,Y,Withdrawn
+11371,M,35-55,A-level,N,Withdrawn
+11372,F,35-55,A-level,N,Pass
+11373,F,55<,A-level,N,Pass
+11374,M,0-35,Lower than A-level,N,Withdrawn
+11375,F,55<,HE Qualification,N,Withdrawn
+11376,M,0-35,HE Qualification,N,Pass
+11377,F,55<,A-level,N,Fail
+11378,F,35-55,HE Qualification,N,Withdrawn
+11379,F,55<,HE Qualification,N,Pass
+11380,M,0-35,Lower than A-level,N,Pass
+11381,F,0-35,HE Qualification,N,Fail
+11382,M,35-55,Lower than A-level,N,Distinction
+11383,F,55<,A-level,N,Pass
+11384,M,0-35,Lower than A-level,N,Pass
+11385,F,35-55,Lower than A-level,N,Withdrawn
+11386,M,35-55,A-level,N,Pass
+11387,F,55<,Lower than A-level,N,Pass
+11388,F,55<,Lower than A-level,N,Pass
+11389,F,35-55,Lower than A-level,N,Pass
+11390,M,35-55,A-level,N,Pass
+11391,F,0-35,HE Qualification,N,Pass
+11392,F,55<,HE Qualification,N,Pass
+11393,M,0-35,A-level,N,Pass
+11394,F,0-35,HE Qualification,N,Pass
+11395,F,35-55,A-level,Y,Pass
+11396,M,55<,A-level,N,Pass
+11397,M,0-35,A-level,N,Pass
+11398,F,55<,A-level,N,Fail
+11399,M,0-35,Lower than A-level,N,Withdrawn
+11400,F,0-35,A-level,N,Pass
+11401,F,0-35,Lower than A-level,N,Pass
+11402,F,35-55,A-level,N,Pass
+11403,F,55<,A-level,N,Fail
+11404,M,35-55,A-level,N,Pass
+11405,F,0-35,A-level,N,Fail
+11406,F,35-55,A-level,N,Fail
+11407,M,35-55,A-level,N,Pass
+11408,M,55<,HE Qualification,N,Withdrawn
+11409,M,35-55,A-level,N,Distinction
+11410,F,55<,HE Qualification,N,Withdrawn
+11411,M,35-55,Lower than A-level,N,Withdrawn
+11412,M,35-55,A-level,N,Pass
+11413,F,35-55,A-level,N,Fail
+11414,F,0-35,Lower than A-level,N,Pass
+11415,M,0-35,A-level,N,Fail
+11416,F,0-35,Lower than A-level,N,Pass
+11417,M,0-35,HE Qualification,N,Withdrawn
+11418,F,55<,A-level,N,Pass
+11419,M,55<,HE Qualification,N,Withdrawn
+11420,F,0-35,A-level,N,Withdrawn
+11421,F,35-55,A-level,N,Pass
+11422,M,55<,A-level,N,Pass
+11423,F,35-55,A-level,N,Pass
+11424,F,55<,HE Qualification,N,Withdrawn
+11425,M,55<,A-level,N,Pass
+11426,M,55<,A-level,N,Pass
+11427,F,0-35,A-level,N,Pass
+11428,M,0-35,Lower than A-level,N,Pass
+11429,F,55<,A-level,N,Distinction
+11430,F,0-35,A-level,N,Pass
+11431,M,0-35,HE Qualification,N,Pass
+11432,M,35-55,HE Qualification,N,Fail
+11433,F,35-55,Lower than A-level,N,Fail
+11434,M,55<,Lower than A-level,N,Pass
+11435,M,0-35,Lower than A-level,N,Withdrawn
+11436,M,0-35,HE Qualification,N,Pass
+11437,M,35-55,A-level,N,Withdrawn
+11438,M,35-55,HE Qualification,N,Withdrawn
+11439,F,35-55,HE Qualification,N,Distinction
+11440,F,35-55,A-level,N,Pass
+11441,M,55<,A-level,N,Fail
+11442,F,0-35,HE Qualification,N,Pass
+11443,M,0-35,HE Qualification,N,Pass
+11444,M,0-35,Lower than A-level,N,Pass
+11445,M,35-55,HE Qualification,N,Pass
+11446,M,0-35,HE Qualification,N,Pass
+11447,F,35-55,HE Qualification,N,Pass
+11448,M,0-35,A-level,N,Withdrawn
+11449,M,0-35,HE Qualification,N,Pass
+11450,M,0-35,HE Qualification,N,Withdrawn
+11451,F,55<,A-level,N,Pass
+11452,F,55<,HE Qualification,N,Withdrawn
+11453,M,35-55,HE Qualification,N,Withdrawn
+11454,M,0-35,A-level,N,Withdrawn
+11455,M,35-55,HE Qualification,N,Withdrawn
+11456,F,0-35,Lower than A-level,N,Pass
+11457,F,35-55,Lower than A-level,N,Pass
+11458,F,55<,HE Qualification,N,Withdrawn
+11459,F,35-55,A-level,N,Pass
+11460,M,0-35,A-level,Y,Fail
+11461,F,55<,HE Qualification,N,Withdrawn
+11462,F,35-55,HE Qualification,N,Pass
+11463,F,35-55,HE Qualification,N,Pass
+11464,F,55<,Lower than A-level,N,Withdrawn
+11465,M,0-35,A-level,N,Withdrawn
+11466,M,35-55,Lower than A-level,N,Pass
+11467,M,55<,A-level,N,Pass
+11468,F,35-55,A-level,N,Pass
+11469,F,35-55,HE Qualification,N,Pass
+11470,F,0-35,HE Qualification,N,Fail
+11471,F,0-35,Lower than A-level,N,Pass
+11472,F,35-55,HE Qualification,N,Fail
+11473,F,0-35,HE Qualification,Y,Pass
+11474,M,55<,HE Qualification,N,Withdrawn
+11475,F,55<,HE Qualification,N,Withdrawn
+11476,M,55<,Lower than A-level,N,Withdrawn
+11477,M,55<,HE Qualification,N,Pass
+11478,F,55<,HE Qualification,N,Pass
+11479,F,0-35,A-level,N,Pass
+11480,M,0-35,A-level,N,Withdrawn
+11481,M,35-55,Lower than A-level,N,Pass
+11482,M,35-55,Lower than A-level,N,Withdrawn
+11483,F,55<,Lower than A-level,N,Withdrawn
+11484,F,0-35,HE Qualification,N,Pass
+11485,M,55<,HE Qualification,N,Withdrawn
+11486,F,35-55,A-level,N,Withdrawn
+11487,F,55<,HE Qualification,N,Pass
+11488,M,55<,Lower than A-level,N,Distinction
+11489,M,55<,HE Qualification,N,Fail
+11490,F,35-55,A-level,N,Fail
+11491,F,35-55,Lower than A-level,N,Withdrawn
+11492,F,35-55,HE Qualification,N,Distinction
+11493,F,55<,Lower than A-level,N,Pass
+11494,F,0-35,A-level,N,Fail
+11495,M,0-35,Lower than A-level,N,Pass
+11496,F,55<,A-level,N,Fail
+11497,F,55<,A-level,N,Fail
+11498,F,35-55,Lower than A-level,N,Distinction
+11499,F,35-55,HE Qualification,N,Pass
+11500,M,55<,HE Qualification,N,Pass
+11501,F,0-35,Lower than A-level,N,Pass
+11502,F,35-55,A-level,N,Pass
+11503,M,35-55,HE Qualification,N,Fail
+11504,M,55<,A-level,N,Fail
+11505,M,35-55,HE Qualification,N,Pass
+11506,M,35-55,Lower than A-level,Y,Withdrawn
+11507,M,35-55,Lower than A-level,N,Withdrawn
+11508,F,0-35,A-level,N,Pass
+11509,F,35-55,Lower than A-level,N,Pass
+11510,F,55<,HE Qualification,N,Withdrawn
+11511,M,0-35,A-level,N,Pass
+11512,F,35-55,Lower than A-level,N,Withdrawn
+11513,F,55<,HE Qualification,N,Pass
+11514,M,55<,Lower than A-level,N,Withdrawn
+11515,F,35-55,A-level,N,Pass
+11516,M,35-55,Lower than A-level,N,Fail
+11517,F,35-55,Lower than A-level,N,Distinction
+11518,M,35-55,HE Qualification,N,Pass
+11519,F,55<,HE Qualification,N,Pass
+11520,F,55<,A-level,Y,Pass
+11521,M,0-35,HE Qualification,N,Fail
+11522,F,55<,A-level,N,Fail
+11523,F,0-35,A-level,N,Fail
+11524,F,55<,Lower than A-level,N,Pass
+11525,F,0-35,Lower than A-level,N,Pass
+11526,F,35-55,Lower than A-level,N,Fail
+11527,M,0-35,A-level,N,Pass
+11528,M,55<,A-level,N,Withdrawn
+11529,M,0-35,HE Qualification,N,Pass
+11530,M,0-35,Lower than A-level,N,Pass
+11531,M,0-35,Lower than A-level,N,Withdrawn
+11532,M,0-35,HE Qualification,N,Withdrawn
+11533,F,55<,HE Qualification,N,Withdrawn
+11534,M,35-55,Lower than A-level,N,Fail
+11535,F,35-55,Lower than A-level,N,Fail
+11536,M,35-55,HE Qualification,N,Withdrawn
+11537,F,0-35,HE Qualification,N,Fail
+11538,M,55<,Lower than A-level,N,Pass
+11539,F,55<,A-level,N,Withdrawn
+11540,M,0-35,Lower than A-level,N,Pass
+11541,M,0-35,Lower than A-level,N,Pass
+11542,M,55<,A-level,N,Pass
+11543,M,35-55,HE Qualification,N,Fail
+11544,F,55<,HE Qualification,N,Pass
+11545,M,0-35,Lower than A-level,N,Fail
+11546,M,55<,HE Qualification,N,Fail
+11547,M,35-55,HE Qualification,N,Pass
+11548,F,55<,A-level,N,Distinction
+11549,F,0-35,HE Qualification,N,Pass
+11550,M,35-55,A-level,N,Withdrawn
+11551,F,55<,HE Qualification,N,Withdrawn
+11552,M,0-35,HE Qualification,N,Fail
+11553,M,55<,Lower than A-level,N,Fail
+11554,M,35-55,Lower than A-level,N,Withdrawn
+11555,M,0-35,A-level,N,Pass
+11556,F,35-55,HE Qualification,N,Fail
+11557,M,35-55,HE Qualification,N,Fail
+11558,M,55<,Lower than A-level,N,Pass
+11559,M,0-35,A-level,N,Pass
+11560,F,35-55,HE Qualification,N,Fail
+11561,M,35-55,A-level,N,Fail
+11562,F,55<,A-level,N,Withdrawn
+11563,F,55<,HE Qualification,N,Pass
+11564,M,35-55,Lower than A-level,N,Pass
+11565,F,35-55,A-level,N,Withdrawn
+11566,F,0-35,A-level,N,Fail
+11567,F,55<,A-level,N,Withdrawn
+11568,M,35-55,A-level,N,Withdrawn
+11569,F,35-55,HE Qualification,N,Pass
+11570,M,35-55,A-level,N,Pass
+11571,M,0-35,Lower than A-level,N,Withdrawn
+11572,M,0-35,Lower than A-level,N,Pass
+11573,F,0-35,HE Qualification,N,Pass
+11574,F,0-35,A-level,N,Withdrawn
+11575,F,0-35,Lower than A-level,N,Pass
+11576,F,55<,Lower than A-level,N,Pass
+11577,F,55<,A-level,N,Pass
+11578,F,55<,A-level,N,Pass
+11579,M,55<,A-level,Y,Distinction
+11580,F,55<,HE Qualification,N,Pass
+11581,M,35-55,A-level,N,Pass
+11582,M,55<,HE Qualification,Y,Distinction
+11583,M,35-55,Lower than A-level,N,Withdrawn
+11584,F,55<,A-level,N,Pass
+11585,F,35-55,A-level,N,Pass
+11586,M,55<,A-level,N,Fail
+11587,F,35-55,HE Qualification,N,Withdrawn
+11588,M,55<,HE Qualification,N,Withdrawn
+11589,F,55<,HE Qualification,N,Pass
+11590,F,35-55,HE Qualification,N,Pass
+11591,M,0-35,HE Qualification,N,Pass
+11592,M,0-35,HE Qualification,N,Fail
+11593,F,35-55,A-level,N,Withdrawn
+11594,F,0-35,Lower than A-level,N,Pass
+11595,M,35-55,HE Qualification,N,Fail
+11596,F,0-35,Lower than A-level,N,Withdrawn
+11597,F,35-55,HE Qualification,N,Fail
+11598,F,35-55,A-level,N,Fail
+11599,M,55<,HE Qualification,Y,Fail
+11600,F,55<,A-level,N,Pass
+11601,M,55<,HE Qualification,N,Pass
+11602,M,35-55,A-level,N,Withdrawn
+11603,M,0-35,Lower than A-level,N,Fail
+11604,F,55<,A-level,N,Fail
+11605,F,55<,Lower than A-level,N,Pass
+11606,F,0-35,Lower than A-level,N,Fail
+11607,F,0-35,HE Qualification,N,Pass
+11608,F,55<,HE Qualification,N,Pass
+11609,M,0-35,HE Qualification,N,Withdrawn
+11610,F,0-35,HE Qualification,N,Withdrawn
+11611,F,55<,Lower than A-level,N,Distinction
+11612,M,0-35,HE Qualification,N,Withdrawn
+11613,F,35-55,HE Qualification,N,Withdrawn
+11614,F,55<,HE Qualification,N,Pass
+11615,M,0-35,A-level,N,Pass
+11616,M,55<,Lower than A-level,N,Fail
+11617,M,55<,A-level,N,Withdrawn
+11618,F,0-35,A-level,N,Pass
+11619,F,55<,Lower than A-level,N,Withdrawn
+11620,M,35-55,Lower than A-level,N,Withdrawn
+11621,F,0-35,A-level,N,Withdrawn
+11622,F,0-35,HE Qualification,Y,Fail
+11623,F,0-35,Lower than A-level,N,Pass
+11624,F,0-35,Lower than A-level,N,Fail
+11625,F,35-55,HE Qualification,N,Withdrawn
+11626,F,0-35,A-level,N,Pass
+11627,M,0-35,Lower than A-level,N,Pass
+11628,M,35-55,HE Qualification,N,Fail
+11629,M,0-35,HE Qualification,N,Withdrawn
+11630,M,35-55,HE Qualification,N,Pass
+11631,M,35-55,Lower than A-level,N,Fail
+11632,F,0-35,HE Qualification,N,Pass
+11633,F,0-35,A-level,N,Withdrawn
+11634,M,55<,HE Qualification,N,Withdrawn
+11635,F,0-35,Lower than A-level,N,Pass
+11636,M,35-55,A-level,N,Pass
+11637,F,55<,Lower than A-level,N,Pass
+11638,M,55<,HE Qualification,N,Withdrawn
+11639,F,55<,HE Qualification,N,Fail
+11640,M,0-35,HE Qualification,N,Withdrawn
+11641,F,0-35,HE Qualification,Y,Withdrawn
+11642,F,35-55,HE Qualification,N,Withdrawn
+11643,M,35-55,HE Qualification,N,Distinction
+11644,M,35-55,Lower than A-level,N,Pass
+11645,M,55<,A-level,N,Pass
+11646,M,35-55,Lower than A-level,Y,Pass
+11647,F,55<,A-level,N,Fail
+11648,F,0-35,Lower than A-level,N,Fail
+11649,M,35-55,HE Qualification,N,Distinction
+11650,M,55<,Lower than A-level,N,Pass
+11651,F,35-55,Lower than A-level,N,Fail
+11652,F,0-35,Lower than A-level,N,Fail
+11653,M,0-35,Lower than A-level,N,Fail
+11654,F,35-55,A-level,N,Withdrawn
+11655,M,0-35,Lower than A-level,N,Fail
+11656,M,0-35,HE Qualification,N,Pass
+11657,F,35-55,HE Qualification,N,Withdrawn
+11658,M,0-35,Lower than A-level,N,Pass
+11659,F,55<,HE Qualification,N,Pass
+11660,M,55<,Lower than A-level,N,Fail
+11661,M,55<,A-level,N,Fail
+11662,F,0-35,HE Qualification,N,Pass
+11663,M,55<,HE Qualification,N,Pass
+11664,F,0-35,Lower than A-level,N,Pass
+11665,F,0-35,A-level,N,Pass
+11666,M,0-35,HE Qualification,N,Fail
+11667,M,0-35,Lower than A-level,N,Distinction
+11668,F,55<,HE Qualification,Y,Withdrawn
+11669,M,35-55,A-level,N,Pass
+11670,F,55<,A-level,N,Withdrawn
+11671,M,0-35,HE Qualification,N,Withdrawn
+11672,M,35-55,A-level,N,Pass
+11673,M,35-55,A-level,N,Fail
+11674,M,35-55,Lower than A-level,N,Withdrawn
+11675,F,35-55,HE Qualification,N,Pass
+11676,F,0-35,HE Qualification,N,Pass
+11677,F,55<,Lower than A-level,N,Pass
+11678,F,55<,HE Qualification,N,Fail
+11679,M,35-55,Lower than A-level,Y,Pass
+11680,M,35-55,HE Qualification,N,Withdrawn
+11681,M,0-35,HE Qualification,N,Pass
+11682,F,55<,Lower than A-level,N,Pass
+11683,M,55<,Lower than A-level,N,Pass
+11684,F,0-35,Lower than A-level,N,Fail
+11685,M,55<,Lower than A-level,N,Pass
+11686,M,0-35,HE Qualification,N,Distinction
+11687,F,55<,Lower than A-level,N,Withdrawn
+11688,F,0-35,HE Qualification,N,Pass
+11689,F,35-55,A-level,N,Pass
+11690,F,0-35,A-level,N,Pass
+11691,M,0-35,HE Qualification,N,Distinction
+11692,F,0-35,Lower than A-level,N,Pass
+11693,M,55<,A-level,N,Pass
+11694,F,55<,HE Qualification,N,Pass
+11695,M,35-55,Lower than A-level,N,Fail
+11696,M,35-55,A-level,N,Pass
+11697,F,35-55,HE Qualification,N,Pass
+11698,F,35-55,A-level,N,Pass
+11699,F,35-55,A-level,N,Withdrawn
+11700,M,35-55,HE Qualification,N,Fail
+11701,F,0-35,A-level,N,Fail
+11702,M,35-55,Lower than A-level,N,Pass
+11703,F,55<,Lower than A-level,N,Pass
+11704,M,35-55,Lower than A-level,N,Pass
+11705,F,55<,Lower than A-level,N,Distinction
+11706,M,35-55,HE Qualification,N,Pass
+11707,F,35-55,Lower than A-level,N,Pass
+11708,M,0-35,HE Qualification,N,Pass
+11709,M,35-55,Lower than A-level,N,Pass
+11710,M,0-35,Lower than A-level,N,Pass
+11711,M,55<,Lower than A-level,N,Withdrawn
+11712,F,0-35,A-level,N,Withdrawn
+11713,M,55<,HE Qualification,N,Pass
+11714,M,55<,HE Qualification,N,Pass
+11715,F,35-55,Lower than A-level,N,Pass
+11716,F,35-55,Lower than A-level,N,Fail
+11717,F,55<,Lower than A-level,N,Withdrawn
+11718,M,55<,HE Qualification,N,Fail
+11719,M,0-35,Lower than A-level,N,Pass
+11720,M,0-35,Lower than A-level,N,Pass
+11721,F,35-55,Lower than A-level,N,Withdrawn
+11722,F,0-35,Lower than A-level,N,Withdrawn
+11723,M,35-55,A-level,N,Pass
+11724,M,35-55,Lower than A-level,N,Pass
+11725,M,55<,Lower than A-level,N,Fail
+11726,F,0-35,HE Qualification,N,Distinction
+11727,F,0-35,A-level,N,Pass
+11728,M,55<,HE Qualification,N,Pass
+11729,F,35-55,HE Qualification,N,Fail
+11730,F,55<,HE Qualification,N,Pass
+11731,M,0-35,HE Qualification,N,Pass
+11732,M,55<,A-level,Y,Pass
+11733,M,0-35,HE Qualification,N,Pass
+11734,F,0-35,Lower than A-level,N,Fail
+11735,F,0-35,Lower than A-level,N,Pass
+11736,F,35-55,Lower than A-level,N,Fail
+11737,M,0-35,Lower than A-level,N,Fail
+11738,F,35-55,Lower than A-level,N,Pass
+11739,M,35-55,Lower than A-level,N,Pass
+11740,F,35-55,A-level,Y,Pass
+11741,F,35-55,Lower than A-level,N,Distinction
+11742,F,0-35,Lower than A-level,N,Withdrawn
+11743,M,0-35,A-level,N,Withdrawn
+11744,F,55<,Lower than A-level,N,Fail
+11745,M,55<,Lower than A-level,N,Pass
+11746,M,35-55,HE Qualification,N,Fail
+11747,M,0-35,HE Qualification,Y,Fail
+11748,M,0-35,Lower than A-level,N,Withdrawn
+11749,F,0-35,A-level,N,Pass
+11750,F,55<,A-level,N,Pass
+11751,F,35-55,HE Qualification,N,Pass
+11752,F,35-55,Lower than A-level,N,Withdrawn
+11753,M,0-35,Lower than A-level,N,Fail
+11754,F,0-35,A-level,N,Fail
+11755,F,0-35,HE Qualification,N,Pass
+11756,F,35-55,Lower than A-level,N,Withdrawn
+11757,F,55<,HE Qualification,N,Distinction
+11758,M,55<,HE Qualification,N,Withdrawn
+11759,M,35-55,HE Qualification,N,Withdrawn
+11760,F,35-55,Lower than A-level,N,Withdrawn
+11761,F,0-35,HE Qualification,N,Pass
+11762,M,35-55,A-level,N,Pass
+11763,F,55<,HE Qualification,N,Pass
+11764,F,0-35,A-level,N,Pass
+11765,F,55<,HE Qualification,N,Withdrawn
+11766,M,35-55,Lower than A-level,N,Withdrawn
+11767,F,0-35,Lower than A-level,N,Pass
+11768,M,35-55,HE Qualification,N,Withdrawn
+11769,F,35-55,A-level,N,Withdrawn
+11770,M,35-55,A-level,N,Pass
+11771,F,55<,HE Qualification,N,Pass
+11772,F,55<,Lower than A-level,N,Withdrawn
+11773,F,35-55,HE Qualification,N,Pass
+11774,F,0-35,Lower than A-level,N,Fail
+11775,F,0-35,A-level,N,Pass
+11776,M,55<,A-level,N,Withdrawn
+11777,F,35-55,Lower than A-level,N,Pass
+11778,F,0-35,Lower than A-level,N,Pass
+11779,F,0-35,A-level,N,Pass
+11780,F,55<,HE Qualification,N,Fail
+11781,F,35-55,Lower than A-level,Y,Withdrawn
+11782,M,35-55,A-level,N,Pass
+11783,F,55<,HE Qualification,N,Pass
+11784,M,35-55,HE Qualification,N,Pass
+11785,F,55<,Lower than A-level,N,Withdrawn
+11786,F,35-55,Lower than A-level,N,Fail
+11787,F,35-55,HE Qualification,N,Withdrawn
+11788,F,0-35,HE Qualification,Y,Fail
+11789,M,55<,A-level,N,Withdrawn
+11790,F,0-35,HE Qualification,N,Pass
+11791,M,55<,Lower than A-level,N,Fail
+11792,F,0-35,Lower than A-level,N,Withdrawn
+11793,F,55<,A-level,N,Withdrawn
+11794,F,55<,Lower than A-level,N,Pass
+11795,F,35-55,HE Qualification,N,Pass
+11796,F,35-55,HE Qualification,N,Pass
+11797,F,35-55,HE Qualification,N,Fail
+11798,F,55<,HE Qualification,N,Withdrawn
+11799,M,55<,Lower than A-level,N,Withdrawn
+11800,M,55<,A-level,N,Withdrawn
+11801,F,35-55,A-level,N,Fail
+11802,F,55<,HE Qualification,N,Withdrawn
+11803,F,55<,HE Qualification,N,Pass
+11804,M,35-55,HE Qualification,N,Withdrawn
+11805,M,55<,A-level,N,Fail
+11806,F,35-55,A-level,N,Fail
+11807,M,35-55,Lower than A-level,N,Pass
+11808,F,0-35,Lower than A-level,Y,Pass
+11809,M,0-35,HE Qualification,N,Pass
+11810,M,0-35,HE Qualification,N,Fail
+11811,M,35-55,A-level,N,Withdrawn
+11812,M,55<,HE Qualification,N,Distinction
+11813,F,0-35,HE Qualification,N,Pass
+11814,F,35-55,A-level,N,Pass
+11815,F,55<,HE Qualification,N,Withdrawn
+11816,M,35-55,A-level,N,Pass
+11817,F,35-55,Lower than A-level,N,Pass
+11818,M,35-55,Lower than A-level,N,Pass
+11819,F,35-55,A-level,N,Pass
+11820,M,35-55,A-level,N,Fail
+11821,M,35-55,HE Qualification,N,Pass
+11822,M,55<,Lower than A-level,Y,Distinction
+11823,F,0-35,A-level,N,Pass
+11824,F,0-35,HE Qualification,Y,Pass
+11825,F,55<,HE Qualification,N,Pass
+11826,M,35-55,A-level,N,Distinction
+11827,M,55<,A-level,N,Withdrawn
+11828,M,55<,A-level,N,Pass
+11829,M,0-35,Lower than A-level,N,Pass
+11830,M,35-55,A-level,N,Withdrawn
+11831,M,55<,Lower than A-level,N,Fail
+11832,F,0-35,A-level,N,Pass
+11833,M,35-55,HE Qualification,N,Pass
+11834,M,35-55,HE Qualification,N,Fail
+11835,M,0-35,HE Qualification,N,Distinction
+11836,F,0-35,HE Qualification,N,Withdrawn
+11837,F,55<,A-level,N,Pass
+11838,M,55<,HE Qualification,N,Pass
+11839,M,55<,HE Qualification,N,Pass
+11840,M,0-35,A-level,N,Withdrawn
+11841,M,0-35,Lower than A-level,N,Withdrawn
+11842,M,55<,HE Qualification,N,Fail
+11843,F,35-55,HE Qualification,N,Fail
+11844,M,55<,A-level,N,Withdrawn
+11845,M,55<,Lower than A-level,N,Distinction
+11846,F,0-35,Lower than A-level,N,Pass
+11847,M,0-35,HE Qualification,N,Pass
+11848,M,55<,HE Qualification,N,Fail
+11849,M,55<,HE Qualification,N,Distinction
+11850,F,35-55,Lower than A-level,N,Fail
+11851,F,0-35,A-level,N,Withdrawn
+11852,F,35-55,Lower than A-level,N,Pass
+11853,F,35-55,Lower than A-level,N,Pass
+11854,M,35-55,HE Qualification,N,Fail
+11855,M,0-35,Lower than A-level,N,Withdrawn
+11856,F,35-55,A-level,N,Fail
+11857,F,0-35,Lower than A-level,N,Pass
+11858,F,0-35,Lower than A-level,N,Pass
+11859,F,35-55,Lower than A-level,N,Pass
+11860,M,55<,A-level,N,Pass
+11861,M,0-35,HE Qualification,N,Pass
+11862,M,0-35,A-level,N,Pass
+11863,M,55<,A-level,N,Pass
+11864,M,55<,Lower than A-level,N,Pass
+11865,M,35-55,A-level,N,Withdrawn
+11866,F,35-55,HE Qualification,N,Pass
+11867,M,55<,A-level,N,Withdrawn
+11868,F,35-55,HE Qualification,N,Pass
+11869,F,0-35,Lower than A-level,N,Pass
+11870,F,55<,A-level,N,Pass
+11871,M,0-35,HE Qualification,N,Pass
+11872,F,0-35,HE Qualification,N,Pass
+11873,F,0-35,HE Qualification,N,Pass
+11874,F,0-35,A-level,N,Fail
+11875,M,0-35,HE Qualification,Y,Pass
+11876,M,35-55,A-level,N,Pass
+11877,F,35-55,HE Qualification,N,Pass
+11878,F,0-35,Lower than A-level,N,Pass
+11879,M,0-35,A-level,N,Pass
+11880,M,55<,A-level,N,Withdrawn
+11881,F,35-55,A-level,N,Withdrawn
+11882,M,35-55,A-level,N,Withdrawn
+11883,M,55<,A-level,N,Withdrawn
+11884,F,35-55,HE Qualification,N,Fail
+11885,M,35-55,Lower than A-level,N,Pass
+11886,M,35-55,A-level,N,Withdrawn
+11887,M,35-55,A-level,N,Pass
+11888,M,55<,HE Qualification,N,Pass
+11889,M,55<,Lower than A-level,N,Withdrawn
+11890,F,35-55,Lower than A-level,N,Pass
+11891,F,0-35,Lower than A-level,N,Pass
+11892,F,35-55,A-level,N,Pass
+11893,F,55<,Lower than A-level,N,Pass
+11894,M,35-55,A-level,N,Pass
+11895,M,0-35,A-level,N,Fail
+11896,F,35-55,Lower than A-level,N,Pass
+11897,M,55<,A-level,N,Fail
+11898,M,0-35,HE Qualification,N,Withdrawn
+11899,F,55<,A-level,N,Fail
+11900,F,0-35,Lower than A-level,N,Withdrawn
+11901,F,35-55,HE Qualification,N,Fail
+11902,F,35-55,HE Qualification,N,Fail
+11903,M,55<,HE Qualification,N,Withdrawn
+11904,M,35-55,A-level,N,Withdrawn
+11905,M,55<,Lower than A-level,N,Fail
+11906,M,0-35,Lower than A-level,N,Withdrawn
+11907,F,55<,A-level,N,Pass
+11908,F,35-55,Lower than A-level,N,Fail
+11909,M,0-35,HE Qualification,N,Withdrawn
+11910,M,0-35,HE Qualification,N,Pass
+11911,F,0-35,Lower than A-level,N,Pass
+11912,F,55<,A-level,N,Pass
+11913,M,0-35,A-level,N,Pass
+11914,M,55<,A-level,N,Pass
+11915,F,35-55,A-level,N,Distinction
+11916,M,35-55,HE Qualification,N,Pass
+11917,M,35-55,HE Qualification,N,Fail
+11918,F,0-35,HE Qualification,N,Withdrawn
+11919,M,35-55,A-level,N,Withdrawn
+11920,F,55<,A-level,N,Pass
+11921,F,0-35,HE Qualification,N,Fail
+11922,F,55<,HE Qualification,N,Fail
+11923,M,55<,Lower than A-level,N,Pass
+11924,F,35-55,A-level,N,Pass
+11925,F,0-35,A-level,N,Distinction
+11926,M,55<,Lower than A-level,N,Pass
+11927,F,55<,HE Qualification,N,Pass
+11928,M,55<,A-level,N,Withdrawn
+11929,F,0-35,A-level,N,Withdrawn
+11930,M,55<,Lower than A-level,Y,Fail
+11931,M,0-35,HE Qualification,N,Pass
+11932,M,55<,HE Qualification,N,Pass
+11933,M,0-35,Lower than A-level,N,Pass
+11934,M,55<,A-level,N,Withdrawn
+11935,M,0-35,A-level,N,Withdrawn
+11936,F,35-55,Lower than A-level,N,Fail
+11937,F,35-55,HE Qualification,N,Pass
+11938,F,55<,A-level,N,Fail
+11939,F,55<,A-level,N,Withdrawn
+11940,F,55<,HE Qualification,N,Pass
+11941,M,0-35,Lower than A-level,N,Pass
+11942,M,0-35,HE Qualification,N,Fail
+11943,M,35-55,Lower than A-level,N,Pass
+11944,M,0-35,Lower than A-level,N,Fail
+11945,F,55<,Lower than A-level,N,Pass
+11946,M,0-35,HE Qualification,N,Distinction
+11947,F,55<,HE Qualification,N,Withdrawn
+11948,F,35-55,HE Qualification,N,Withdrawn
+11949,M,0-35,Lower than A-level,N,Withdrawn
+11950,F,0-35,HE Qualification,N,Pass
+11951,F,0-35,Lower than A-level,N,Pass
+11952,M,35-55,A-level,N,Pass
+11953,F,55<,A-level,N,Withdrawn
+11954,F,55<,A-level,N,Fail
+11955,F,0-35,Lower than A-level,N,Pass
+11956,F,0-35,A-level,N,Withdrawn
+11957,F,35-55,A-level,N,Withdrawn
+11958,M,35-55,Lower than A-level,N,Pass
+11959,M,0-35,A-level,N,Distinction
+11960,F,35-55,HE Qualification,N,Distinction
+11961,M,35-55,HE Qualification,N,Withdrawn
+11962,M,35-55,HE Qualification,N,Withdrawn
+11963,F,0-35,Lower than A-level,N,Fail
+11964,M,55<,Lower than A-level,N,Pass
+11965,F,0-35,HE Qualification,N,Pass
+11966,F,0-35,A-level,N,Pass
+11967,F,0-35,HE Qualification,N,Pass
+11968,F,0-35,HE Qualification,N,Distinction
+11969,F,35-55,Lower than A-level,N,Pass
+11970,F,0-35,A-level,N,Fail
+11971,F,0-35,Lower than A-level,N,Withdrawn
+11972,F,35-55,A-level,N,Pass
+11973,M,55<,Lower than A-level,N,Pass
+11974,M,55<,A-level,N,Pass
+11975,M,0-35,Lower than A-level,N,Distinction
+11976,F,0-35,Lower than A-level,N,Fail
+11977,M,35-55,HE Qualification,N,Distinction
+11978,F,0-35,A-level,N,Pass
+11979,M,55<,A-level,N,Withdrawn
+11980,M,35-55,HE Qualification,N,Fail
+11981,M,0-35,A-level,N,Fail
+11982,F,0-35,A-level,N,Distinction
+11983,F,35-55,A-level,N,Withdrawn
+11984,M,35-55,A-level,N,Withdrawn
+11985,M,0-35,Lower than A-level,N,Pass
+11986,F,55<,A-level,N,Fail
+11987,F,55<,HE Qualification,N,Pass
+11988,F,55<,A-level,N,Pass
+11989,F,35-55,Lower than A-level,N,Withdrawn
+11990,F,55<,Lower than A-level,Y,Pass
+11991,M,0-35,A-level,N,Pass
+11992,M,55<,HE Qualification,N,Pass
+11993,M,35-55,A-level,N,Pass
+11994,M,35-55,HE Qualification,N,Withdrawn
+11995,F,55<,Lower than A-level,N,Pass
+11996,F,0-35,HE Qualification,N,Pass
+11997,M,55<,HE Qualification,N,Distinction
+11998,M,35-55,A-level,N,Pass
+11999,F,0-35,A-level,N,Fail
